@@ -1,0 +1,17 @@
+;;!domain: blocks
+;;!problem: prob
+
+0.00000: (MOVETOTABLE A)
+0.00100: (MOVE F A)
+0.00200: (MOVETOTABLE E)
+0.00300: (MOVE B D)
+0.00400: (MOVE E B)
+0.00500: (MOVETOTABLE F)
+0.00600: (MOVE A C)
+0.00700: (MOVE F A)
+
+; Makespan: 0.007
+; Metric: 0.007
+
+
+

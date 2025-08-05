@@ -1,0 +1,5002 @@
+No. 1
+Judged: 3
+Answer: 4
+Test case: ['test', 'to', 'predict', 'breast', 'cancer', 'relaps', 'is', 'approv']
+
+No. 2
+Judged: 5
+Answer: 5
+Test case: ['two', 'hussein', 'alli', 'ar', 'hang', 'iraqi', 'offici', 'sai']
+
+No. 3
+Judged: 4
+Answer: 4
+Test case: ['sight', 'and', 'sound', 'from', 'ce']
+
+No. 4
+Judged: 4
+Answer: 4
+Test case: ['schuei', 'see', 'ferrari', 'unveil', 'new', 'car']
+
+No. 5
+Judged: 5
+Answer: 3
+Test case: ['close', 'and', 'cancel', 'top', 'advic', 'on', 'flu', 'outbreak']
+
+No. 6
+Judged: 5
+Answer: 5
+Test case: ['truck', 'swallow', 'in', 'subwai', 'collaps']
+
+No. 7
+Judged: 3
+Answer: 6
+Test case: ['sarkozi', 'letter', 'surpris', 'french', 'cartoon', 'hear']
+
+No. 8
+Judged: 5
+Answer: 5
+Test case: ['build', 'a', 'memori', 'to', 'a', 'son', 'on', 'child', 'at', 'a', 'time']
+
+No. 9
+Judged: 4
+Answer: 6
+Test case: ['lawmak', 'seek', 'ipod', 'ban', 'in', 'crosswalk', 'in', 'new', 'york']
+
+No. 10
+Judged: 4
+Answer: 5
+Test case: ['diabet', 'wait', 'month', 'for', 'eyeglass']
+
+No. 11
+Judged: 6
+Answer: 6
+Test case: ['sudan', 'tell', 'unit', 'nation', 'envoi', 'to', 'leav', 'in', 'hour']
+
+No. 12
+Judged: 5
+Answer: 6
+Test case: ['year', 'on', 'but', 'coupl', 'still', 'hug']
+
+No. 13
+Judged: 5
+Answer: 6
+Test case: ['defens', 'to', 'challeng', 'russert', 's', 'credibl']
+
+No. 14
+Judged: 4
+Answer: 4
+Test case: ['ozzi', 'a', 'hero', 'for', 'the', 'hard', 'rock', 'mass']
+
+No. 15
+Judged: 4
+Answer: 6
+Test case: ['cia', 'leak', 'trial', 'summari']
+
+No. 16
+Judged: 5
+Answer: 4
+Test case: ['danc', 'movi', 'take', 'over', 'no']
+
+No. 17
+Judged: 6
+Answer: 6
+Test case: ['asian', 'nation', 'urg', 'myanmar', 'reform']
+
+No. 18
+Judged: 3
+Answer: 4
+Test case: ['after', 'iraq', 'trip', 'clinton', 'propos', 'war', 'limit']
+
+No. 19
+Judged: 5
+Answer: 5
+Test case: ['dead', 'in', 'apart', 'build', 'fire']
+
+No. 20
+Judged: 4
+Answer: 6
+Test case: ['male', 'sweat', 'boost', 'women', 's', 'hormon', 'level']
+
+No. 21
+Judged: 3
+Answer: 6
+Test case: ['carphon', 'warehous', 's', 'mix', 'signal']
+
+No. 22
+Judged: 2
+Answer: 6
+Test case: ['democrat', 'plot', 'bush', 'troop', 'increas', 'censur']
+
+No. 23
+Judged: 4
+Answer: 1
+Test case: ['cisco', 'sue', 'appl', 'over', 'iphon', 'name']
+
+No. 24
+Judged: 2
+Answer: 2
+Test case: ['bb', 'star', 'jackson', 'deni', 'goodi', 'comment']
+
+No. 25
+Judged: 4
+Answer: 4
+Test case: ['inter', 'milan', 'set', 'seri', 'a', 'win', 'record']
+
+No. 26
+Judged: 4
+Answer: 6
+Test case: ['us', 'airwai', 'boost', 'bid', 'for', 'delta']
+
+No. 27
+Judged: 5
+Answer: 4
+Test case: ['press', 'see', 'hope', 'in', 'mecca', 'talk']
+
+No. 28
+Judged: 4
+Answer: 6
+Test case: ['bear', 'fan', 'lose', 'bet', 'and', 'chang', 'name']
+
+No. 29
+Judged: 1
+Answer: 2
+Test case: ['global', 'nation', 'major', 'child', 'porn', 'ring', 'bust']
+
+No. 30
+Judged: 5
+Answer: 6
+Test case: ['human', 'hair', 'clue', 'in', 'hunt', 'for', 'airlin']
+
+No. 31
+Judged: 5
+Answer: 4
+Test case: ['johnni', 'depp', 'to', 'make', 'movi', 'of', 'spy', 'poison']
+
+No. 32
+Judged: 3
+Answer: 6
+Test case: ['realli', 'the', 'claim', 'the', 'pill', 'can', 'make', 'you', 'put', 'on', 'weight']
+
+No. 33
+Judged: 4
+Answer: 4
+Test case: ['monei', 'makeov']
+
+No. 34
+Judged: 5
+Answer: 3
+Test case: ['tb', 'to', 'pai', 'm', 'fine', 'for', 'ad', 'campaign', 'bomb', 'scare']
+
+No. 35
+Judged: 4
+Answer: 4
+Test case: ['stomp', 'the', 'yard', 'ha', 'win', 'move', 'in', 'it', 'weekend', 'debut']
+
+No. 36
+Judged: 6
+Answer: 6
+Test case: ['discov', 'boi', 'bring', 'shock', 'joi']
+
+No. 37
+Judged: 4
+Answer: 5
+Test case: ['bernhard', 'set', 'to', 'leav', 'volkswagen']
+
+No. 38
+Judged: 6
+Answer: 3
+Test case: ['pacer', 'jackson', 'miss', 'gun', 'hear']
+
+No. 39
+Judged: 1
+Answer: 4
+Test case: ['case', 'when', 'the', 'simpl', 'solut', 'is', 'the', 'right', 'on']
+
+No. 40
+Judged: 4
+Answer: 1
+Test case: ['two', 'muslim', 'group', 'sue', 'french', 'newspap', 'intern']
+
+No. 41
+Judged: 5
+Answer: 4
+Test case: ['golden', 'globe', 'on', 'their', 'wai']
+
+No. 42
+Judged: 4
+Answer: 6
+Test case: ['at', 'new', 'ozzfest', 'freedom', 'ain', 't', 'free']
+
+No. 43
+Judged: 4
+Answer: 5
+Test case: ['feder', 'hand', 'tough', 'aussi', 'draw']
+
+No. 44
+Judged: 4
+Answer: 4
+Test case: ['protest', 'end', 'strike', 'as', 'nepal', 'pm', 'conced', 'demand']
+
+No. 45
+Judged: 5
+Answer: 3
+Test case: ['turner', 'pai', 'for', 'boston', 'bomb']
+
+No. 46
+Judged: 4
+Answer: 2
+Test case: ['two', 'detain', 'in', 'bodi', 'part', 'mail']
+
+No. 47
+Judged: 3
+Answer: 5
+Test case: ['essai', 'about', 'that', 'mean', 'streak', 'of', 'your', 'psychiatri', 'can', 'do', 'onli', 'so', 'much']
+
+No. 48
+Judged: 4
+Answer: 5
+Test case: ['hussein', 's', 'niec', 'plead', 'for', 'father', 's', 'life']
+
+No. 49
+Judged: 5
+Answer: 1
+Test case: ['sarkozi', 'head', 'for', 'clash', 'in', 'cartoon', 'row']
+
+No. 50
+Judged: 1
+Answer: 1
+Test case: ['global', 'web', 'of', 'suspect', 'in', 'child', 'rape', 'download']
+
+No. 51
+Judged: 4
+Answer: 4
+Test case: ['blake', 'defeat', 'moya', 'to', 'retain', 'titl']
+
+No. 52
+Judged: 5
+Answer: 3
+Test case: ['storm', 'kill', 'knock', 'out', 'power', 'cancel', 'flight']
+
+No. 53
+Judged: 5
+Answer: 5
+Test case: ['aquarium', 'put', 'ail', 'beluga', 'whale', 'to', 'sleep']
+
+No. 54
+Judged: 5
+Answer: 6
+Test case: ['microsoft', 'soni', 'we', 'have', 'a', 'problem']
+
+No. 55
+Judged: 3
+Answer: 3
+Test case: ['a', 'polic', 'state', 'the', 'issu']
+
+No. 56
+Judged: 4
+Answer: 6
+Test case: ['move', 'to', 'ban', 'ipod', 'from', 'cross', 'the', 'street']
+
+No. 57
+Judged: 3
+Answer: 4
+Test case: ['india', 's', 'taj', 'mahal', 'get', 'facelift']
+
+No. 58
+Judged: 3
+Answer: 1
+Test case: ['chenei', 'to', 'congress', 'can', 't', 'run', 'iraq', 'war', 'by', 'committe']
+
+No. 59
+Judged: 2
+Answer: 4
+Test case: ['ganguli', 'hand', 'india', 'squad', 'call', 'up']
+
+No. 60
+Judged: 4
+Answer: 4
+Test case: ['fortun', 'look', 'beyond', 'the', 'iphon']
+
+No. 61
+Judged: 4
+Answer: 6
+Test case: ['realli', 'the', 'claim', 'the', 'back', 'seat', 'of', 'a', 'car', 'is', 'the', 'safest', 'place', 'to', 'sit']
+
+No. 62
+Judged: 5
+Answer: 1
+Test case: ['vaccin', 'mandat', 'upset', 'legisl']
+
+No. 63
+Judged: 3
+Answer: 3
+Test case: ['new', 'analysi', 'iranian', 'boast', 'is', 'put', 'to', 'test']
+
+No. 64
+Judged: 2
+Answer: 3
+Test case: ['panel', 'issu', 'bleak', 'report', 'on', 'climat', 'chang']
+
+No. 65
+Judged: 5
+Answer: 4
+Test case: ['virtual', 'american', 'idol', 'hit', 'right', 'note']
+
+No. 66
+Judged: 5
+Answer: 5
+Test case: ['iraq', 'car', 'bomb', 'kill', 'peopl', 'wound', 'more', 'than']
+
+No. 67
+Judged: 4
+Answer: 4
+Test case: ['stomp', 'step', 'to', 'no', 'at', 'box', 'offic']
+
+No. 68
+Judged: 6
+Answer: 4
+Test case: ['googl', 'execut', 'act', 'as', 'goodwil', 'envoi']
+
+No. 69
+Judged: 2
+Answer: 3
+Test case: ['filipino', 'woman', 'kidnap', 'in', 'nigeria']
+
+No. 70
+Judged: 4
+Answer: 4
+Test case: ['seahawk', 'bear', 'vie', 'for', 'shot', 'at', 'nfl', 'titl']
+
+No. 71
+Judged: 5
+Answer: 5
+Test case: ['brown', 'not', 'buri', 'as', 'estat', 'issu', 'loom']
+
+No. 72
+Judged: 5
+Answer: 6
+Test case: ['will', 'rob', 'cohen', 'direct', 'third', 'mummi']
+
+No. 73
+Judged: 6
+Answer: 4
+Test case: ['eu', 'will', 'urg', 'china', 'to', 'go', 'green']
+
+No. 74
+Judged: 5
+Answer: 6
+Test case: ['th', 'centuri', 'remedi', 'st', 'centuri', 'potenc']
+
+No. 75
+Judged: 4
+Answer: 3
+Test case: ['forecast', 'expect', 'toasti']
+
+No. 76
+Judged: 4
+Answer: 4
+Test case: ['sunshin', 'goydo', 'win', 'soni', 'open']
+
+No. 77
+Judged: 4
+Answer: 2
+Test case: ['teacher', 'charg', 'with', 'sex', 'assault']
+
+No. 78
+Judged: 5
+Answer: 4
+Test case: ['merck', 'gardasil', 'mai', 'fight', 'more', 'strain']
+
+No. 79
+Judged: 5
+Answer: 3
+Test case: ['mountain', 'glacier', 'melt', 'faster', 'unit', 'nation', 'sai']
+
+No. 80
+Judged: 3
+Answer: 5
+Test case: ['snow', 'caus', 'airport', 'closur', 'in', 'britain']
+
+No. 81
+Judged: 4
+Answer: 4
+Test case: ['bananaconda', 'inventor', 'is', 'top', 'poet', 'of', 'kid']
+
+No. 82
+Judged: 4
+Answer: 1
+Test case: ['sharehold', 'sue', 'appl']
+
+No. 83
+Judged: 3
+Answer: 3
+Test case: ['isra', 'retali', 'after', 'attack', 'by', 'lebanes', 'armi']
+
+No. 84
+Judged: 5
+Answer: 3
+Test case: ['deadli', 'bird', 'flu', 'confirm', 'in', 'british', 'turkei']
+
+No. 85
+Judged: 6
+Answer: 6
+Test case: ['too', 'littl', 'sleep', 'mai', 'mean', 'too', 'fat', 'kid']
+
+No. 86
+Judged: 6
+Answer: 5
+Test case: ['bath', 'mom', 'awak', 'to', 'find', 'babi', 'dead']
+
+No. 87
+Judged: 4
+Answer: 4
+Test case: ['visitor', 'to', 'eiffel', 'tower', 'climb', 'to', 'record', 'in']
+
+No. 88
+Judged: 4
+Answer: 6
+Test case: ['more', 'sleep', 'healthier', 'slimmer', 'children']
+
+No. 89
+Judged: 4
+Answer: 4
+Test case: ['queen', 'battl', 'bond', 'for', 'bafta']
+
+No. 90
+Judged: 5
+Answer: 5
+Test case: ['walter', 'on', 'trump', 'poor', 'pathet', 'man']
+
+No. 91
+Judged: 5
+Answer: 3
+Test case: ['ic', 'storm', 'smack', 'road', 'power']
+
+No. 92
+Judged: 1
+Answer: 3
+Test case: ['iran', 'sai', 'it', 'will', 'strike', 'us', 'interest', 'if', 'attack']
+
+No. 93
+Judged: 3
+Answer: 4
+Test case: ['palestinian', 'faction', 'to', 'resum', 'talk']
+
+No. 94
+Judged: 5
+Answer: 6
+Test case: ['studi', 'men', 's', 'sweat', 'trigger', 'high', 'sexual', 'arous', 'in', 'women']
+
+No. 95
+Judged: 3
+Answer: 3
+Test case: ['outcri', 'at', 'n', 'korea', 'nuclear', 'test']
+
+No. 96
+Judged: 4
+Answer: 3
+Test case: ['russia', 'plan', 'major', 'militari', 'build', 'up']
+
+No. 97
+Judged: 5
+Answer: 6
+Test case: ['archaeologist', 'find', 'remain', 'of', 'coupl', 'lock', 'in', 'a', 'hug']
+
+No. 98
+Judged: 4
+Answer: 4
+Test case: ['stenson', 'defend', 'hi', 'titl', 'at', 'dubai']
+
+No. 99
+Judged: 4
+Answer: 3
+Test case: ['take', 'the', 'plung']
+
+No. 100
+Judged: 5
+Answer: 4
+Test case: ['updat', 'on', 'world', 's', 'top', 'stori']
+
+No. 101
+Judged: 3
+Answer: 6
+Test case: ['man', 'ride', 'stationari', 'bike', 'for', 'hour']
+
+No. 102
+Judged: 5
+Answer: 3
+Test case: ['ic', 'storm', 'coat', 'midwest']
+
+No. 103
+Judged: 4
+Answer: 1
+Test case: ['a', 'mistrial', 'for', 'lieut', 'watada']
+
+No. 104
+Judged: 5
+Answer: 3
+Test case: ['iran', 'warn', 'will', 'hit', 'back', 'at', 'us', 'if', 'attack']
+
+No. 105
+Judged: 5
+Answer: 4
+Test case: ['asean', 'talk', 'end', 'on', 'energi', 'secur']
+
+No. 106
+Judged: 5
+Answer: 5
+Test case: ['iraqi', 'death', 'toll', 'exceed', 'in', 'unit', 'nation', 'sai']
+
+No. 107
+Judged: 5
+Answer: 3
+Test case: ['israel', 'intensifi', 'militari', 'flight', 'over', 'lebanon']
+
+No. 108
+Judged: 2
+Answer: 4
+Test case: ['new', 'gadget', 'galor', 'at', 'tech', 'show']
+
+No. 109
+Judged: 5
+Answer: 5
+Test case: ['anoth', 'death', 'at', 'georgia', 'aquarium']
+
+No. 110
+Judged: 6
+Answer: 3
+Test case: ['us', 'to', 'urg', 'nato', 'afghan', 'spring', 'offens']
+
+No. 111
+Judged: 4
+Answer: 3
+Test case: ['uk', 'letter', 'bomb', 'mai', 'be', 'from', 'extremist', 'driver']
+
+No. 112
+Judged: 1
+Answer: 6
+Test case: ['asia', 'seek', 'breakthrough', 'on', 'north', 'korea']
+
+No. 113
+Judged: 5
+Answer: 4
+Test case: ['feder', 'overcom', 'a', 'rag', 'start']
+
+No. 114
+Judged: 4
+Answer: 1
+Test case: ['rowdi', 'fan', 'eject', 'from', 'the', 'open']
+
+No. 115
+Judged: 4
+Answer: 4
+Test case: ['terai', 'protest', 'hail', 'histor', 'victori', 'over', 'govern']
+
+No. 116
+Judged: 3
+Answer: 1
+Test case: ['anger', 'at', 'releas', 'of', 'two', 'held', 'over', 'behead', 'plot']
+
+No. 117
+Judged: 2
+Answer: 1
+Test case: ['bush', 'adam', 'on', 'troop', 'to', 'iraq']
+
+No. 118
+Judged: 3
+Answer: 4
+Test case: ['bebe', 'neuwirth', 'get', 'to', 'wiggl', 'again']
+
+No. 119
+Judged: 4
+Answer: 4
+Test case: ['beckham', 'to', 'l', 'a', 'for', 'the', 'game', 'not', 'fame']
+
+No. 120
+Judged: 5
+Answer: 6
+Test case: ['sleep', 'more', 'to', 'fight', 'childhood', 'obes']
+
+No. 121
+Judged: 1
+Answer: 5
+Test case: ['abba', 'reject', 'temporari', 'state']
+
+No. 122
+Judged: 2
+Answer: 2
+Test case: ['investig', 'of', 'child', 'porn', 'site', 'hit', 'nation']
+
+No. 123
+Judged: 4
+Answer: 6
+Test case: ['sleuth', 'close', 'in', 'on', 'odysseu', 'home']
+
+No. 124
+Judged: 5
+Answer: 6
+Test case: ['varieti', 'johnni', 'depp', 'to', 'make', 'movi', 'of', 'spy', 'poison']
+
+No. 125
+Judged: 5
+Answer: 3
+Test case: ['ic', 'storm', 'crippl', 'central', 'u', 's']
+
+No. 126
+Judged: 4
+Answer: 4
+Test case: ['park', 'star', 'as', 'unit', 'maintain', 'lead']
+
+No. 127
+Judged: 4
+Answer: 6
+Test case: ['prehistor', 'romeo', 'and', 'juliet', 'discov']
+
+No. 128
+Judged: 3
+Answer: 4
+Test case: ['india', 's', 'famou', 'landmark', 'get', 'facelift']
+
+No. 129
+Judged: 5
+Answer: 4
+Test case: ['joseph', 'wambaugh', 's', 'new', 'start']
+
+No. 130
+Judged: 5
+Answer: 5
+Test case: ['particip', 'in', 'water', 'drink', 'contest', 'di']
+
+No. 131
+Judged: 4
+Answer: 6
+Test case: ['appl', 'drop', 'bombshel', 'with', 'iphon']
+
+No. 132
+Judged: 4
+Answer: 4
+Test case: ['bollywood', 's', 'brangelina', 'engag']
+
+No. 133
+Judged: 5
+Answer: 3
+Test case: ['shiit', 'fighter', 'arrest', 'in', 'crackdown', 'iraq', 'sai']
+
+No. 134
+Judged: 4
+Answer: 5
+Test case: ['rio', 'de', 'janeiro', 'journal', 'draw', 'line', 'across', 'the', 'sand', 'between', 'class']
+
+No. 135
+Judged: 5
+Answer: 6
+Test case: ['model', 'health', 'guidelin', 'will', 'thei', 'help']
+
+No. 136
+Judged: 4
+Answer: 4
+Test case: ['step', 'back', 'in', 'time', 'at', 'ski', 'resort']
+
+No. 137
+Judged: 5
+Answer: 5
+Test case: ['test', 'cricket', 'jail', 'over', 'kill']
+
+No. 138
+Judged: 2
+Answer: 4
+Test case: ['walnut', 'combat', 'unhealthi', 'fat']
+
+No. 139
+Judged: 4
+Answer: 6
+Test case: ['appl', 'to', 'vista', 'upgrad', 'wait']
+
+No. 140
+Judged: 4
+Answer: 5
+Test case: ['injur', 'sarwan', 'to', 'miss', 'on', 'dayer']
+
+No. 141
+Judged: 6
+Answer: 3
+Test case: ['firm', 'on', 'alert', 'for', 'letter', 'bomb']
+
+No. 142
+Judged: 6
+Answer: 6
+Test case: ['studio', 'sign', 'off', 'on', 'movi', 'download']
+
+No. 143
+Judged: 4
+Answer: 4
+Test case: ['asif', 'return', 'with', 'four', 'wicket', 'haul']
+
+No. 144
+Judged: 1
+Answer: 1
+Test case: ['bush', 'author', 'iranian', 'arrest', 'in', 'iraq', 'rice', 'sai']
+
+No. 145
+Judged: 2
+Answer: 2
+Test case: ['porn', 'ring', 'scandal', 'reach', 'australia']
+
+No. 146
+Judged: 5
+Answer: 5
+Test case: ['deputi', 'health', 'minist', 'arrest', 'in', 'us', 'iraqi', 'raid']
+
+No. 147
+Judged: 5
+Answer: 6
+Test case: ['senat', 'carl', 'krueger', 'think', 'ipod', 'can', 'kill', 'you']
+
+No. 148
+Judged: 3
+Answer: 4
+Test case: ['final', 'senat', 'okai', 'anti', 'terror', 'bill', 'manila']
+
+No. 149
+Judged: 4
+Answer: 3
+Test case: ['somalia', 'declar', 'state', 'of', 'emerg']
+
+No. 150
+Judged: 4
+Answer: 4
+Test case: ['matt', 'shine', 'with', 'hi', 'alpin', 'finish']
+
+No. 151
+Judged: 5
+Answer: 5
+Test case: ['bp', 'ceo', 'brown', 'to', 'step', 'down', 'in', 'june']
+
+No. 152
+Judged: 4
+Answer: 6
+Test case: ['an', 'iphon', 'by', 'ani', 'other', 'name', 'sure', 'not']
+
+No. 153
+Judged: 2
+Answer: 5
+Test case: ['life', 'in', 'gaza', 'steadili', 'worsen']
+
+No. 154
+Judged: 3
+Answer: 6
+Test case: ['the', 'energi', 'challeng', 'exot', 'vision', 'how', 'to', 'cool', 'a', 'planet', 'mayb']
+
+No. 155
+Judged: 5
+Answer: 4
+Test case: ['easi', 'wai', 'to', 'realli', 'save']
+
+No. 156
+Judged: 4
+Answer: 1
+Test case: ['sharehold', 'sue', 'appl']
+
+No. 157
+Judged: 6
+Answer: 3
+Test case: ['find', 'can', 'human', 'surviv', 'want', 'to', 'bet', 'on', 'it']
+
+No. 158
+Judged: 6
+Answer: 3
+Test case: ['iran', 'step', 'up', 'product', 'of', 'weapon', 'grade', 'uranium']
+
+No. 159
+Judged: 5
+Answer: 3
+Test case: ['rig', 'threat', 'cargo', 'ship', 'tow', 'ashor']
+
+No. 160
+Judged: 5
+Answer: 5
+Test case: ['palestinian', 'sai', 'clash', 'hurt', 'their', 'caus']
+
+No. 161
+Judged: 3
+Answer: 6
+Test case: ['male', 'sweat', 'can', 'rais', 'hormon']
+
+No. 162
+Judged: 3
+Answer: 6
+Test case: ['vital', 'sign', 'hazard', 'antidepress', 'link', 'to', 'fractur', 'in', 'older', 'peopl']
+
+No. 163
+Judged: 5
+Answer: 5
+Test case: ['peron', 'held', 'over', 's', 'right', 'abus']
+
+No. 164
+Judged: 4
+Answer: 6
+Test case: ['space', 'life', 'search', 'turn', 'to', 'tv']
+
+No. 165
+Judged: 3
+Answer: 5
+Test case: ['super', 'bowl', 'ad', 'of', 'cartoonish', 'violenc', 'perhap', 'reflect', 'toll', 'of', 'war']
+
+No. 166
+Judged: 4
+Answer: 6
+Test case: ['youtub', 'told', 'to', 'drop', 'celeb', 'sex', 'video']
+
+No. 167
+Judged: 4
+Answer: 4
+Test case: ['beckham', 'posh', 'and', 'more', 'athlet', 'celebr', 'coupl']
+
+No. 168
+Judged: 4
+Answer: 3
+Test case: ['citi', 'set', 'up', 'ic', 'storm', 'shelter']
+
+No. 169
+Judged: 6
+Answer: 5
+Test case: ['libbi', 'prosecutor', 'await', 'judg', 's', 'rule']
+
+No. 170
+Judged: 4
+Answer: 5
+Test case: ['review', 'alpha', 'dog', 'miss', 'the', 'point']
+
+No. 171
+Judged: 6
+Answer: 1
+Test case: ['republican', 'plan', 'to', 'block', 'iraq', 'debat']
+
+No. 172
+Judged: 4
+Answer: 6
+Test case: ['mix', 'reaction', 'to', 'china', 's', 'africa', 'push']
+
+No. 173
+Judged: 6
+Answer: 4
+Test case: ['snow', 'in', 'the', 'canadian', 'rocki']
+
+No. 174
+Judged: 5
+Answer: 6
+Test case: ['skip', 'the', 'shower', 'male', 'sweat', 'turn', 'women', 'on', 'studi', 'sai']
+
+No. 175
+Judged: 4
+Answer: 4
+Test case: ['gentli', 'weep', 'lyric', 'sheet', 'up', 'for', 'sale']
+
+No. 176
+Judged: 4
+Answer: 4
+Test case: ['canet', 'win', 'inaugur', 'joburg', 'open']
+
+No. 177
+Judged: 5
+Answer: 4
+Test case: ['right', 'group', 'halt', 'violent', 'nepal', 'strike']
+
+No. 178
+Judged: 4
+Answer: 5
+Test case: ['real', 'suffer', 'carlo', 'injuri', 'setback']
+
+No. 179
+Judged: 5
+Answer: 5
+Test case: ['astronaut', 'mai', 'have', 'buckl', 'under', 'stress']
+
+No. 180
+Judged: 3
+Answer: 3
+Test case: ['gunmen', 'abduct', 'filipino', 'woman', 'in', 'nigeria']
+
+No. 181
+Judged: 4
+Answer: 4
+Test case: ['nfl', 'team', 's', 'fan', 'of', 'the', 'year', 'flag', 'ladi']
+
+No. 182
+Judged: 1
+Answer: 6
+Test case: ['no', 'reject', 'polic', 'state', 'claim']
+
+No. 183
+Judged: 4
+Answer: 4
+Test case: ['malaysian', 'airasia', 'x', 'to', 'fly', 'in', 'juli']
+
+No. 184
+Judged: 4
+Answer: 3
+Test case: ['kidnap', 'at', 'nigeria', 'oil', 'base']
+
+No. 185
+Judged: 4
+Answer: 6
+Test case: ['gui', 'sweat', 'is', 'babe', 'magnet']
+
+No. 186
+Judged: 5
+Answer: 4
+Test case: ['township', 'tourism', 'boom', 'in', 'south', 'africa']
+
+No. 187
+Judged: 4
+Answer: 6
+Test case: ['alpha', 'dog', 'miss', 'the', 'point']
+
+No. 188
+Judged: 6
+Answer: 6
+Test case: ['iran', 'leader', 'pai', 'nicaragua', 'a', 'visit']
+
+No. 189
+Judged: 2
+Answer: 4
+Test case: ['grei', 's', 'pirat', 'lead', 'peopl', 's', 'choic']
+
+No. 190
+Judged: 3
+Answer: 3
+Test case: ['terror', 'network']
+
+No. 191
+Judged: 4
+Answer: 5
+Test case: ['now', 'it', 's', 'offici', 'iraq', 's', 'a', 'mess']
+
+No. 192
+Judged: 4
+Answer: 5
+Test case: ['snow', 'bring', 'travel', 'miseri', 'to', 'england']
+
+No. 193
+Judged: 5
+Answer: 6
+Test case: ['jame', 'brown', 's', 'year', 'old', 'son', 'left', 'out', 'of', 'will']
+
+No. 194
+Judged: 4
+Answer: 5
+Test case: ['two', 'men', 'kill', 'by', 'london', 'tube', 'train']
+
+No. 195
+Judged: 3
+Answer: 5
+Test case: ['us', 'million', 'fail', 'to', 'bui', 'influenc', 'in', 'deadli', 'gaza', 'power', 'plai']
+
+No. 196
+Judged: 5
+Answer: 4
+Test case: ['plo', 'minist', 'agre', 'upon', 'in', 'mecca']
+
+No. 197
+Judged: 5
+Answer: 5
+Test case: ['squadron', 'apolog', 'over', 'friendli', 'fire', 'death']
+
+No. 198
+Judged: 3
+Answer: 3
+Test case: ['new', 'orlean', 'violenc', 'spark', 'tourism', 'fear']
+
+No. 199
+Judged: 3
+Answer: 3
+Test case: ['friendli', 'fire', 'pilot', 'experienc']
+
+No. 200
+Judged: 4
+Answer: 6
+Test case: ['space', 'com', 'black', 'hole', 'triplet', 'spot']
+
+No. 201
+Judged: 5
+Answer: 6
+Test case: ['vaccin', 'mandat', 'or', 'choic']
+
+No. 202
+Judged: 5
+Answer: 1
+Test case: ['congoles', 'soldier', 'riot', 'loot', 'over', 'pai', 'issu']
+
+No. 203
+Judged: 6
+Answer: 4
+Test case: ['commod', 'lead', 'europ', 'higher']
+
+No. 204
+Judged: 5
+Answer: 6
+Test case: ['ingredi', 'in', 'male', 'sweat', 'rais', 'women', 's', 'hormon', 'level']
+
+No. 205
+Judged: 4
+Answer: 4
+Test case: ['goetschl', 'end', 'austrian', 'win', 'drought']
+
+No. 206
+Judged: 4
+Answer: 3
+Test case: ['doomsdai', 'clock', 'tick', 'awai']
+
+No. 207
+Judged: 3
+Answer: 3
+Test case: ['troop', 'mass', 'around', 'somali', 'town']
+
+No. 208
+Judged: 4
+Answer: 6
+Test case: ['tariq', 'ramadan', 'ha', 'an', 'ident', 'issu']
+
+No. 209
+Judged: 3
+Answer: 1
+Test case: ['peretz', 'order', 'idf', 'to', 'respond', 'with', 'forc', 'to', 'north', 'border', 'attack']
+
+No. 210
+Judged: 3
+Answer: 5
+Test case: ['train', 'crash', 'near', 'thai', 'resort', 'town']
+
+No. 211
+Judged: 6
+Answer: 4
+Test case: ['hama', 'fatah', 'return', 'to', 'uniti', 'gov', 't', 'talk', 'in', 'mecca']
+
+No. 212
+Judged: 4
+Answer: 4
+Test case: ['pat', 'fourth', 'quarter', 'ralli', 'finish', 'charger']
+
+No. 213
+Judged: 3
+Answer: 5
+Test case: ['die', 'as', 'us', 'helicopt', 'crash', 'in', 'iraq']
+
+No. 214
+Judged: 5
+Answer: 5
+Test case: ['millionair', 'secret', 'santa', 'di']
+
+No. 215
+Judged: 4
+Answer: 4
+Test case: ['morrissei', 'mai', 'cheer', 'up', 'eurovis']
+
+No. 216
+Judged: 4
+Answer: 4
+Test case: ['christian', 'valu', 'guid', 'dungi', 'and', 'the', 'colt']
+
+No. 217
+Judged: 3
+Answer: 1
+Test case: ['isra', 'woman', 's', 'tirad', 'spur', 'pm', 'outrag']
+
+No. 218
+Judged: 4
+Answer: 1
+Test case: ['pass', 'exchang', 'becom', 'polit', 'flashpoint']
+
+No. 219
+Judged: 5
+Answer: 5
+Test case: ['polic', 'probe', 'church', 'fire', 'half', 'mile', 'apart']
+
+No. 220
+Judged: 5
+Answer: 1
+Test case: ['itali', 'to', 'try', 'us', 'soldier', 'for', 'agent', 's', 'iraq', 'death']
+
+No. 221
+Judged: 4
+Answer: 4
+Test case: ['depp', 'to', 'star', 'in', 'spy', 'poison', 'film']
+
+No. 222
+Judged: 4
+Answer: 4
+Test case: ['s', 'jack', 'bauer', 'return']
+
+No. 223
+Judged: 4
+Answer: 6
+Test case: ['us', 'airwai', 'boost', 'bid', 'for', 'delta']
+
+No. 224
+Judged: 4
+Answer: 3
+Test case: ['even', 'befor', 'it', 'releas', 'world', 'climat', 'report', 'is', 'critic', 'as', 'too', 'optimist']
+
+No. 225
+Judged: 3
+Answer: 5
+Test case: ['second', 'hang', 'also', 'went', 'awri', 'iraq', 'tape', 'show']
+
+No. 226
+Judged: 5
+Answer: 4
+Test case: ['howel', 'take', 'on', 'shot', 'lead', 'in', 'soni', 'open']
+
+No. 227
+Judged: 5
+Answer: 5
+Test case: ['psych', 'check', 'review', 'after', 'astronaut', 's', 'crack', 'up']
+
+No. 228
+Judged: 5
+Answer: 6
+Test case: ['pap', 'test', 'a', 'mainstai', 'against', 'cervic', 'cancer', 'mai', 'be', 'fade']
+
+No. 229
+Judged: 4
+Answer: 4
+Test case: ['martin', 'lead', 'newcastl', 'fightback']
+
+No. 230
+Judged: 5
+Answer: 4
+Test case: ['ps', 'pricei', 'but', 'impress']
+
+No. 231
+Judged: 4
+Answer: 4
+Test case: ['pluto', 's', 'reveng', 'word', 'of', 'the', 'year', 'award']
+
+No. 232
+Judged: 4
+Answer: 4
+Test case: ['european', 'space', 'agenc']
+
+No. 233
+Judged: 5
+Answer: 1
+Test case: ['hacker', 'strike', 'at', 'kei', 'internet', 'server']
+
+No. 234
+Judged: 4
+Answer: 5
+Test case: ['hussein', 'co', 'defend', 'execut']
+
+No. 235
+Judged: 4
+Answer: 3
+Test case: ['memo', 'from', 'frankfurt', 'germani', 'reliv', 's', 'terror', 'as', 'seek', 'releas', 'from', 'jail']
+
+No. 236
+Judged: 3
+Answer: 4
+Test case: ['bliss', 'out', 'in', 'ojai']
+
+No. 237
+Judged: 4
+Answer: 5
+Test case: ['houston', 'she', 's', 'got', 'some', 'problem']
+
+No. 238
+Judged: 4
+Answer: 4
+Test case: ['amazon', 'com', 'ha', 'best', 'ever', 'sale']
+
+No. 239
+Judged: 4
+Answer: 1
+Test case: ['hacker', 'attack', 'root', 'server']
+
+No. 240
+Judged: 4
+Answer: 6
+Test case: ['video', 'game', 'can', 'improv', 'your', 'vision']
+
+No. 241
+Judged: 1
+Answer: 6
+Test case: ['internet', 'attack', 'did', 'anyon', 'notic']
+
+No. 242
+Judged: 5
+Answer: 6
+Test case: ['in', 'washington', 'contractor', 'take', 'on', 'biggest', 'role', 'ever']
+
+No. 243
+Judged: 5
+Answer: 5
+Test case: ['flood', 'forc', 'malaysia', 'evacu']
+
+No. 244
+Judged: 4
+Answer: 6
+Test case: ['on', 'myspac', 'girl', 'seek', 'friend', 'boi', 'flirt']
+
+No. 245
+Judged: 5
+Answer: 3
+Test case: ['test', 'of', 'drug', 'to', 'block', 'h', 'i', 'v', 'infect', 'ar', 'halt', 'over', 'safeti']
+
+No. 246
+Judged: 1
+Answer: 5
+Test case: ['zoo', 'polar', 'bear', 'to', 'have', 'root', 'canal']
+
+No. 247
+Judged: 5
+Answer: 4
+Test case: ['europ', 'take', 'big', 'royal', 'trophi', 'lead']
+
+No. 248
+Judged: 5
+Answer: 4
+Test case: ['israel', 'to', 'instal', 'camera', 'to', 'show', 'live', 'mughrabi', 'footag']
+
+No. 249
+Judged: 4
+Answer: 5
+Test case: ['we', 'lit', 'our', 'last', 'candl', 'yesterdai']
+
+No. 250
+Judged: 4
+Answer: 6
+Test case: ['googl', 'bui', 'youtub', 'for', 'bn']
+
+No. 251
+Judged: 5
+Answer: 4
+Test case: ['psp', 'number', 'on', 'soni', 'platform', 'in', 'japan']
+
+No. 252
+Judged: 5
+Answer: 4
+Test case: ['england', 'includ', 'gile', 'in', 'wc', 'squad']
+
+No. 253
+Judged: 4
+Answer: 5
+Test case: ['beckham', 'won', 't', 'plai', 'again', 'for', 'real']
+
+No. 254
+Judged: 4
+Answer: 5
+Test case: ['eight', 'year', 'for', 'damilola', 'killer']
+
+No. 255
+Judged: 5
+Answer: 5
+Test case: ['pc', 'world', 'editor', 'slain', 'at', 'california', 'home']
+
+No. 256
+Judged: 5
+Answer: 3
+Test case: ['hand', 'on', 'doomsdai', 'clock', 'move', 'forward']
+
+No. 257
+Judged: 6
+Answer: 5
+Test case: ['zach', 'braff', 'sai', 'he', 'ha', 'mild', 'depress']
+
+No. 258
+Judged: 2
+Answer: 2
+Test case: ['investig', 'of', 'child', 'porn', 'site', 'hit', 'nation', 'usa', 'todai']
+
+No. 259
+Judged: 2
+Answer: 3
+Test case: ['scienc', 'panel', 'call', 'global', 'warm', 'unequivoc']
+
+No. 260
+Judged: 6
+Answer: 4
+Test case: ['new', 'babi', 'panda', 'babi', 'panda', 'babi', 'panda']
+
+No. 261
+Judged: 3
+Answer: 4
+Test case: ['get', 'readi', 'for', 'the', 'earn']
+
+No. 262
+Judged: 4
+Answer: 5
+Test case: ['germani', 'agon', 'over', 'a', 'brain', 'drain']
+
+No. 263
+Judged: 4
+Answer: 4
+Test case: ['iran', 'and', 'nicaraguan', 'leader', 'meet']
+
+No. 264
+Judged: 6
+Answer: 6
+Test case: ['secret', 'hotel', 'in', 'irish', 'countrysid']
+
+No. 265
+Judged: 5
+Answer: 4
+Test case: ['fine', 'wine', 'in', 'british', 'columbia']
+
+No. 266
+Judged: 3
+Answer: 4
+Test case: ['philippin', 'presid', 'welcom', 'senat', 'approv', 'of', 'anti', 'terror', 'bill']
+
+No. 267
+Judged: 5
+Answer: 5
+Test case: ['small', 'jet', 'crash', 'on', 'takeoff', 'kill']
+
+No. 268
+Judged: 1
+Answer: 3
+Test case: ['bigger', 'more', 'aggress', 'rat', 'infest', 'uk']
+
+No. 269
+Judged: 4
+Answer: 4
+Test case: ['travel', 'leisur', 'next', 'island', 'hot', 'spot', 'st', 'lucia']
+
+No. 270
+Judged: 1
+Answer: 4
+Test case: ['real', 'mallorca', 'rock', 'leader', 'sevilla']
+
+No. 271
+Judged: 6
+Answer: 3
+Test case: ['iran', 's', 'boast', 'on', 'uranium', 'enrich', 'is', 'put', 'to', 'test']
+
+No. 272
+Judged: 4
+Answer: 3
+Test case: ['person', 'health', 'for', 'teenag', 'the', 'car', 'is', 'the', 'danger', 'zone']
+
+No. 273
+Judged: 5
+Answer: 4
+Test case: ['bird', 'watcher', 'flock', 'to', 'see', 'rare', 'owl']
+
+No. 274
+Judged: 4
+Answer: 5
+Test case: ['ey', 'on', 'cosmo', 'is', 'lost', 'to', 'short', 'circuit', 'on', 'hubbl']
+
+No. 275
+Judged: 5
+Answer: 5
+Test case: ['too', 'young', 'for', 'thi', 'face', 'cancer', 'under']
+
+No. 276
+Judged: 4
+Answer: 4
+Test case: ['unilev', 'group', 'name', 'new', 'chairman']
+
+No. 277
+Judged: 5
+Answer: 1
+Test case: ['minist', 'slam', 'airlin', 'on', 'carbon']
+
+No. 278
+Judged: 1
+Answer: 4
+Test case: ['rare', 'optim', 'as', 'north', 'korea', 'talk', 'reach', 'crossroad']
+
+No. 279
+Judged: 4
+Answer: 5
+Test case: ['man', 'behead', 'in', 'southern', 'thailand']
+
+No. 280
+Judged: 4
+Answer: 3
+Test case: ['china', 's', 'nightmar', 'scenario']
+
+No. 281
+Judged: 1
+Answer: 6
+Test case: ['annual', 'dive', 'contest', 'in', 'south', 'korea', 'prove', 'a', 'chilli', 'challeng']
+
+No. 282
+Judged: 5
+Answer: 5
+Test case: ['blair', 'sai', 'he', 'regret', 'delai', 'in', 'british', 'soldier', 's', 'inquest']
+
+No. 283
+Judged: 5
+Answer: 3
+Test case: ['iraqi', 'forc', 'detain', 'offici', 'suspect', 'in', 'shia', 'conspiraci']
+
+No. 284
+Judged: 4
+Answer: 4
+Test case: ['wellcom', 'award', 'anti', 'fat', 'research']
+
+No. 285
+Judged: 1
+Answer: 4
+Test case: ['finger', 'cross', 'for', 'north', 'korea']
+
+No. 286
+Judged: 3
+Answer: 4
+Test case: ['no', 'intent', 'of', 'war', 'with', 'iran', 'us', 'sai']
+
+No. 287
+Judged: 2
+Answer: 3
+Test case: ['what', 'newsom', 'face', 'in', 'aftermath', 'of', 'scandal']
+
+No. 288
+Judged: 4
+Answer: 4
+Test case: ['maggi', 'gyllenha', 's', 'globe', 'babysitt', 'mom']
+
+No. 289
+Judged: 3
+Answer: 5
+Test case: ['as', 'inflat', 'soar', 'zimbabw', 'economi', 'plung']
+
+No. 290
+Judged: 6
+Answer: 2
+Test case: ['pledg', 'i', 'wa', 'abus', 'in', 'frat', 'haze']
+
+No. 291
+Judged: 4
+Answer: 3
+Test case: ['expert', 'fear', 'like', 'shackl', 'boi']
+
+No. 292
+Judged: 5
+Answer: 3
+Test case: ['what', 's', 'behind', 'the', 'chopper', 'crash', 'in', 'iraq']
+
+No. 293
+Judged: 3
+Answer: 3
+Test case: ['freed', 'muslim', 'terror', 'suspect', 'sai', 'britain', 'is', 'polic', 'state']
+
+No. 294
+Judged: 5
+Answer: 5
+Test case: ['blair', 'apologis', 'over', 'friendli', 'fire', 'inquest']
+
+No. 295
+Judged: 4
+Answer: 4
+Test case: ['depp', 'to', 'make', 'litvinenko', 'movi']
+
+No. 296
+Judged: 5
+Answer: 6
+Test case: ['why', 'ga', 'follow', 'oil', 'up', 'but', 'not', 'down']
+
+No. 297
+Judged: 6
+Answer: 4
+Test case: ['crave', 'still', 'there', 'sez', 'tara']
+
+No. 298
+Judged: 4
+Answer: 5
+Test case: ['bill', 'would', 'strip', 'convict', 'legisl', 'of', 'pension']
+
+No. 299
+Judged: 3
+Answer: 5
+Test case: ['bear', 'watch', 'as', 'lead', 'slip', 'awai']
+
+No. 300
+Judged: 4
+Answer: 6
+Test case: ['in', 'clue', 'to', 'addict', 'brain', 'injuri', 'halt', 'smoke']
+
+No. 301
+Judged: 3
+Answer: 4
+Test case: ['in', 'rigor', 'test', 'talk', 'therapi', 'work', 'for', 'panic', 'disord']
+
+No. 302
+Judged: 1
+Answer: 4
+Test case: ['rice', 'u', 's', 'won', 't', 'pull', 'plug', 'on', 'iraq']
+
+No. 303
+Judged: 5
+Answer: 3
+Test case: ['on', 'road', 'to', 'kosovo', 'independ', 'a', 'warn', 'go', 'slow']
+
+No. 304
+Judged: 4
+Answer: 5
+Test case: ['mistrial', 'for', 'offic', 'who', 'refus', 'to', 'go', 'to', 'iraq']
+
+No. 305
+Judged: 3
+Answer: 6
+Test case: ['rebel', 'to', 'join', 'nepal', 'parliament']
+
+No. 306
+Judged: 5
+Answer: 3
+Test case: ['emi', 'warn', 'on', 'profit', 'boss', 'goe']
+
+No. 307
+Judged: 5
+Answer: 5
+Test case: ['subwai', 'collaps', 'caught', 'on', 'camera']
+
+No. 308
+Judged: 5
+Answer: 6
+Test case: ['stinki', 'but', 'true', 'men', 's', 'sweat', 'is', 'made', 'for', 'love']
+
+No. 309
+Judged: 5
+Answer: 4
+Test case: ['polit', 'us', 'repriev', 'for', 'offic', 'who', 'denounc', 'immor', 'war']
+
+No. 310
+Judged: 6
+Answer: 5
+Test case: ['hunter', 'stalk', 'world', 's', 'tallest', 'tree']
+
+No. 311
+Judged: 5
+Answer: 3
+Test case: ['fuel', 'spill', 'mai', 'lead', 'to', 'miss', 'jet']
+
+No. 312
+Judged: 5
+Answer: 5
+Test case: ['sri', 'lanka', 'flood', 'displac']
+
+No. 313
+Judged: 1
+Answer: 5
+Test case: ['justin', 'timberlak', 'cameron', 'diaz', 'announc', 'split']
+
+No. 314
+Judged: 3
+Answer: 3
+Test case: ['iran', 'to', 'hit', 'us', 'interest', 'if', 'attack']
+
+No. 315
+Judged: 1
+Answer: 4
+Test case: ['israel', 'sai', 'hope', 'to', 'keep', 'lebanon', 'border', 'calm']
+
+No. 316
+Judged: 4
+Answer: 1
+Test case: ['cisco', 'sue', 'appl', 'over', 'iphon', 'name']
+
+No. 317
+Judged: 3
+Answer: 5
+Test case: ['two', 'palestinian', 'kill', 'near', 'fenc']
+
+No. 318
+Judged: 5
+Answer: 5
+Test case: ['earthlink', 'ceo', 'di', 'at', 'ag']
+
+No. 319
+Judged: 5
+Answer: 5
+Test case: ['a', 'star', 'di', 'a', 'famili', 'feud', 'is', 'born']
+
+No. 320
+Judged: 5
+Answer: 1
+Test case: ['carter', 'wa', 'a', 'disast', 'said', 'ford']
+
+No. 321
+Judged: 1
+Answer: 4
+Test case: ['super', 'bowl', 'mvp', 'man', 'insist', 'he', 's', 'on', 'of', 'the', 'gui']
+
+No. 322
+Judged: 5
+Answer: 3
+Test case: ['person', 'health', 'the', 'import', 'of', 'know', 'what', 'the', 'doctor', 'is', 'talk', 'about']
+
+No. 323
+Judged: 6
+Answer: 1
+Test case: ['israel', 's', 'peretz', 'urg', 'halt', 'to', 'contenti', 'jerusalem', 'construct']
+
+No. 324
+Judged: 4
+Answer: 1
+Test case: ['peter', 'jackson', 'will', 'never', 'work', 'for', 'me', 'again']
+
+No. 325
+Judged: 6
+Answer: 4
+Test case: ['u', 's', 'keep', 'iran', 'option', 'open']
+
+No. 326
+Judged: 4
+Answer: 4
+Test case: ['european', 'share', 'hit', 'fresh', 'high']
+
+No. 327
+Judged: 5
+Answer: 6
+Test case: ['for', 'women', 'noth', 's', 'like', 'the', 'smell', 'of', 'men', 's', 'sweat']
+
+No. 328
+Judged: 4
+Answer: 6
+Test case: ['look', 'beyond', 'the', 'iphon']
+
+No. 329
+Judged: 3
+Answer: 3
+Test case: ['freed', 'kidnap', 'suspect', 'my', 'terror', 'at', 'polic', 'raid']
+
+No. 330
+Judged: 5
+Answer: 4
+Test case: ['far', 'awai', 'super', 'bowl', 's', 'loser', 'will', 'be', 'champ']
+
+No. 331
+Judged: 5
+Answer: 5
+Test case: ['woman', 'di', 'after', 'water', 'bing']
+
+No. 332
+Judged: 4
+Answer: 4
+Test case: ['mancuso', 'spark', 'u', 's', 'celebr']
+
+No. 333
+Judged: 1
+Answer: 3
+Test case: ['asean', 'urg', 'north', 'korea', 'resolut']
+
+No. 334
+Judged: 4
+Answer: 5
+Test case: ['late', 'penalti', 'cost', 'roma', 'the', 'point']
+
+No. 335
+Judged: 3
+Answer: 5
+Test case: ['mistrial', 'declar', 'in', 'teacher', 'student', 'rape', 'case']
+
+No. 336
+Judged: 4
+Answer: 4
+Test case: ['bookworm', 'adventur', 'wordsmith', 's', 'joi']
+
+No. 337
+Judged: 4
+Answer: 5
+Test case: ['kyli', 's', 'love', 'split']
+
+No. 338
+Judged: 4
+Answer: 4
+Test case: ['ipod', 'good', 'for', 'video', 'game']
+
+No. 339
+Judged: 5
+Answer: 4
+Test case: ['review', 'virtual', 'american', 'idol', 'hit', 'right', 'note']
+
+No. 340
+Judged: 4
+Answer: 4
+Test case: ['leo', 'battl', 'himself']
+
+No. 341
+Judged: 5
+Answer: 1
+Test case: ['attornei', 'point', 'finger', 'in', 'fight', 'between', 'ryan', 'o', 'neal', 'and', 'son']
+
+No. 342
+Judged: 4
+Answer: 3
+Test case: ['john', 'grisham', 'set', 'for', 'court', 'drama']
+
+No. 343
+Judged: 5
+Answer: 6
+Test case: ['bill', 'gate', 'and', 'craig', 'mundi', 'vista', 'is', 'secur', 'employe', 'ar', 'not']
+
+No. 344
+Judged: 3
+Answer: 1
+Test case: ['iraqi', 'fault', 'delai', 'u', 's', 'plan', 'in', 'attack']
+
+No. 345
+Judged: 5
+Answer: 3
+Test case: ['boi', 'scout', 'blame', 'for', 'start', 'wildfir']
+
+No. 346
+Judged: 6
+Answer: 3
+Test case: ['china', 'urg', 'un', 'action', 'on', 'n', 'korea']
+
+No. 347
+Judged: 5
+Answer: 3
+Test case: ['scorpion', 'on', 'a', 'plane', 'a', 'pant', 'of', 'pain']
+
+No. 348
+Judged: 4
+Answer: 6
+Test case: ['male', 'sweat', 'boost', 'women', 's', 'hormon', 'level']
+
+No. 349
+Judged: 5
+Answer: 6
+Test case: ['mbeki', 'on', 'the', 'big', 'visit', 'from', 'the', 'chines']
+
+No. 350
+Judged: 3
+Answer: 4
+Test case: ['french', 'right', 'nomin', 'sarkozi']
+
+No. 351
+Judged: 3
+Answer: 3
+Test case: ['isra', 'lebanes', 'clash', 'on', 'border']
+
+No. 352
+Judged: 3
+Answer: 3
+Test case: ['north', 'korea', 'claim', 'nuclear', 'test']
+
+No. 353
+Judged: 5
+Answer: 4
+Test case: ['talk', 'begin', 'on', 'somalia', 'peacekeep']
+
+No. 354
+Judged: 4
+Answer: 6
+Test case: ['action', 'game', 'improv', 'eyesight']
+
+No. 355
+Judged: 4
+Answer: 6
+Test case: ['a', 'small', 'part', 'of', 'the', 'brain', 'and', 'it', 'profound', 'effect']
+
+No. 356
+Judged: 5
+Answer: 3
+Test case: ['idf', 'shell', 'lebanes', 'armi', 'posit', 'across', 'northern', 'border']
+
+No. 357
+Judged: 5
+Answer: 5
+Test case: ['thailand', 'miss', 'year', 'after', 'take', 'wrong', 'bu']
+
+No. 358
+Judged: 1
+Answer: 1
+Test case: ['ballerina', 'spark', 'anti', 'fascist', 'row']
+
+No. 359
+Judged: 3
+Answer: 4
+Test case: ['internet', 'boom', 'in', 'china', 'is', 'built', 'on', 'virtual', 'fun']
+
+No. 360
+Judged: 5
+Answer: 4
+Test case: ['review', 'ps', 'pricei', 'but', 'impress']
+
+No. 361
+Judged: 4
+Answer: 4
+Test case: ['machineri', 'order', 'drive', 'asia', 'upward']
+
+No. 362
+Judged: 4
+Answer: 2
+Test case: ['lost', 's', 'fox', 'i', 'm', 'a', 'liar', 'and', 'a', 'cheat']
+
+No. 363
+Judged: 4
+Answer: 3
+Test case: ['russia', 'to', 'strengthen', 'it', 'militari', 'muscl']
+
+No. 364
+Judged: 3
+Answer: 3
+Test case: ['at', 'libbi', 'trial', 'russert', 'of', 'nbc', 'give', 'and', 'get']
+
+No. 365
+Judged: 1
+Answer: 4
+Test case: ['north', 'korea', 'readi', 'to', 'discuss', 'first', 'step', 'to', 'nuclear', 'resolut']
+
+No. 366
+Judged: 5
+Answer: 6
+Test case: ['victim', 'gunman', 'bought', 'drink', 'after', 'shoot']
+
+No. 367
+Judged: 3
+Answer: 4
+Test case: ['ferrer', 'victori', 'in', 'spanish', 'duel']
+
+No. 368
+Judged: 3
+Answer: 3
+Test case: ['uk', 'worker', 'on', 'alert', 'for', 'letter', 'bomb']
+
+No. 369
+Judged: 6
+Answer: 6
+Test case: ['did', 'nasa', 'accident', 'kill', 'life', 'on', 'mar']
+
+No. 370
+Judged: 5
+Answer: 4
+Test case: ['new', 'vaccin', 'for', 'cervic', 'cancer', 'could', 'prove', 'us', 'in', 'men', 'too']
+
+No. 371
+Judged: 5
+Answer: 5
+Test case: ['search', 'on', 'for', 'victim', 'of', 'subwai', 'collaps']
+
+No. 372
+Judged: 5
+Answer: 5
+Test case: ['human', 'error', 'caus', 'helio', 'crash']
+
+No. 373
+Judged: 5
+Answer: 3
+Test case: ['us', 'to', 'prod', 'nato', 'alli', 'for', 'more', 'troop', 'to', 'defeat', 'taliban']
+
+No. 374
+Judged: 4
+Answer: 4
+Test case: ['microsoft', 'support', 'openid', 'authent', 'standard']
+
+No. 375
+Judged: 5
+Answer: 5
+Test case: ['no', 'buyer', 'in', 'sight', 'for', 'napster']
+
+No. 376
+Judged: 4
+Answer: 4
+Test case: ['briefli', 'preload', 'ipod', 'wal', 'mart', 'movi', 'appl', 'store']
+
+No. 377
+Judged: 5
+Answer: 5
+Test case: ['china', 'sai', 'rich', 'countri', 'should', 'take', 'lead', 'on', 'global', 'warm']
+
+No. 378
+Judged: 1
+Answer: 4
+Test case: ['north', 'korea', 'mai', 'begin', 'to', 'dismantl', 'nuke']
+
+No. 379
+Judged: 5
+Answer: 4
+Test case: ['track', 'down', 'hi', 'tech', 'crime']
+
+No. 380
+Judged: 6
+Answer: 4
+Test case: ['barack', 'obama', 'formal', 'announc', 'bid', 'for', 'presid']
+
+No. 381
+Judged: 4
+Answer: 3
+Test case: ['kidnapp', 'seiz', 'two', 'in', 'nigeria']
+
+No. 382
+Judged: 5
+Answer: 3
+Test case: ['indonesia', 'mai', 'sell', 'not', 'give', 'bird', 'flu', 'viru', 'to', 'scientist']
+
+No. 383
+Judged: 1
+Answer: 5
+Test case: ['attack', 'video', 'sadden', 'friendli', 'fire', 'widow']
+
+No. 384
+Judged: 4
+Answer: 4
+Test case: ['europ', 'retain', 'trophi', 'with', 'big', 'win']
+
+No. 385
+Judged: 6
+Answer: 4
+Test case: ['cut', 'edg', 'accessori', 'for', 'digit', 'music', 'player']
+
+No. 386
+Judged: 5
+Answer: 3
+Test case: ['ic', 'storm', 'descend', 'on', 'central', 'u', 's']
+
+No. 387
+Judged: 4
+Answer: 5
+Test case: ['snow', 'bring', 'travel', 'miseri', 'to', 'england']
+
+No. 388
+Judged: 5
+Answer: 5
+Test case: ['indonesia', 'flood', 'forc', 'from', 'home']
+
+No. 389
+Judged: 3
+Answer: 6
+Test case: ['iraqi', 'health', 'minist', 'seiz', 'in', 'raid']
+
+No. 390
+Judged: 5
+Answer: 3
+Test case: ['ic', 'storm', 'bring', 'chao', 'in', 'u', 's']
+
+No. 391
+Judged: 4
+Answer: 4
+Test case: ['stinki', 'flower', 'mysteri', 'solv']
+
+No. 392
+Judged: 5
+Answer: 1
+Test case: ['congressman', 'rebuk', 'u', 's', 'alli', 'for', 'lack', 'of', 'support', 'in', 'afghanistan']
+
+No. 393
+Judged: 5
+Answer: 4
+Test case: ['roddick', 'overcom', 'feder', 'in', 'final']
+
+No. 394
+Judged: 4
+Answer: 4
+Test case: ['prehistor', 'romeo', 'and', 'juliet', 'discov']
+
+No. 395
+Judged: 5
+Answer: 4
+Test case: ['donald', 'and', 'goydo', 'share', 'soni', 'lead']
+
+No. 396
+Judged: 5
+Answer: 3
+Test case: ['u', 's', 'and', 'iraqi', 'ar', 'wrangl', 'over', 'war', 'plan']
+
+No. 397
+Judged: 4
+Answer: 5
+Test case: ['sea', 'search', 'for', 'miss', 'microsoft', 'scientist']
+
+No. 398
+Judged: 3
+Answer: 3
+Test case: ['iran', 'to', 'hit', 'us', 'interest', 'if', 'attack']
+
+No. 399
+Judged: 5
+Answer: 3
+Test case: ['blair', 'terror', 'battl', 'will', 'be', 'long']
+
+No. 400
+Judged: 3
+Answer: 4
+Test case: ['bear', 'cub', 'return', 'to', 'the', 'wilder']
+
+No. 401
+Judged: 4
+Answer: 5
+Test case: ['carrefour', 'sale', 'growth', 'fall', 'short']
+
+No. 402
+Judged: 4
+Answer: 6
+Test case: ['alli', 'with', 'democrat', 'lieberman', 'easili', 'align', 'with', 'republican']
+
+No. 403
+Judged: 3
+Answer: 5
+Test case: ['in', 'the', 'rocki', 'pine', 'die', 'and', 'bear', 'feel', 'it']
+
+No. 404
+Judged: 3
+Answer: 3
+Test case: ['iran', 'to', 'strike', 'us', 'interest', 'if', 'attack']
+
+No. 405
+Judged: 2
+Answer: 2
+Test case: ['nippl', 'cover', 'other', 'star', 'secret']
+
+No. 406
+Judged: 4
+Answer: 6
+Test case: ['appl', 'no', 'itun', 'for', 'you', 'if', 'you', 'have', 'vista']
+
+No. 407
+Judged: 5
+Answer: 5
+Test case: ['smokestack', 'in', 'a', 'white', 'wilder', 'divid', 'iceland']
+
+No. 408
+Judged: 4
+Answer: 1
+Test case: ['that', 'll', 'cost', 'ya']
+
+No. 409
+Judged: 5
+Answer: 3
+Test case: ['botch', 'hang', 'in', 'iraq', 'speed', 'sectarian']
+
+No. 410
+Judged: 4
+Answer: 6
+Test case: ['male', 'sweat', 'rais', 'femal', 'hormon']
+
+No. 411
+Judged: 5
+Answer: 4
+Test case: ['gop', 'senat', 'to', 'forc', 'debat', 'on', 'troop', 'in', 'iraq']
+
+No. 412
+Judged: 5
+Answer: 4
+Test case: ['bangladesh', 'end', 'curfew', 'amid', 'unrest']
+
+No. 413
+Judged: 5
+Answer: 1
+Test case: ['itali', 's', 'disput', 'with', 'us', 'over', 'iraq', 'shoot']
+
+No. 414
+Judged: 4
+Answer: 4
+Test case: ['here', 'come', 'the', 'globe']
+
+No. 415
+Judged: 3
+Answer: 5
+Test case: ['snow', 'caus', 'transport', 'chao', 'in', 'britain']
+
+No. 416
+Judged: 3
+Answer: 5
+Test case: ['snow', 'caus', 'airport', 'closur', 'in', 'britain']
+
+No. 417
+Judged: 5
+Answer: 6
+Test case: ['second', 'opinion', 'girl', 'or', 'boi', 'as', 'fertil', 'technolog', 'advanc', 'so', 'doe', 'an', 'ethic', 'debat']
+
+No. 418
+Judged: 4
+Answer: 3
+Test case: ['heavi', 'snow', 'caus', 'travel', 'chao', 'and', 'shut', 'school']
+
+No. 419
+Judged: 4
+Answer: 4
+Test case: ['barbaro', 's', 'legaci', 'save', 'other', 'hors']
+
+No. 420
+Judged: 5
+Answer: 4
+Test case: ['luxuri', 'dig', 'in', 'south', 'carolina', 's', 'lowcountri']
+
+No. 421
+Judged: 3
+Answer: 5
+Test case: ['dozen', 'kill', 'in', 'baghdad', 'bomb']
+
+No. 422
+Judged: 5
+Answer: 5
+Test case: ['ic', 'storm', 'kill', 'across', 'nation']
+
+No. 423
+Judged: 5
+Answer: 4
+Test case: ['de', 'villier', 'take', 'over', 'dakar', 'lead']
+
+No. 424
+Judged: 5
+Answer: 4
+Test case: ['vietnam', 'becom', 'wto', 's', 'th', 'member']
+
+No. 425
+Judged: 4
+Answer: 4
+Test case: ['south', 'african', 'trio', 'share', 'advantag']
+
+No. 426
+Judged: 5
+Answer: 3
+Test case: ['observatori', 'poison', 'beget', 'poison']
+
+No. 427
+Judged: 4
+Answer: 4
+Test case: ['action', 'intens', 'boost', 'vision']
+
+No. 428
+Judged: 5
+Answer: 6
+Test case: ['why', 'the', 'smell', 'of', 'a', 'man', 's', 'armpit', 'is', 'a', 'turn', 'on']
+
+No. 429
+Judged: 4
+Answer: 4
+Test case: ['nokia', 'xpress', 'music']
+
+No. 430
+Judged: 3
+Answer: 5
+Test case: ['dell', 'to', 'cut', 'bonus', 'trim', 'manag']
+
+No. 431
+Judged: 3
+Answer: 6
+Test case: ['second', 'drop', 'in', 'cancer', 'death', 'could', 'point', 'to', 'a', 'trend', 'research', 'sai']
+
+No. 432
+Judged: 4
+Answer: 4
+Test case: ['tv', 'game', 'show', 'go', 'interact']
+
+No. 433
+Judged: 4
+Answer: 4
+Test case: ['boi', 'miss', 'sinc', 'found', 'aliv']
+
+No. 434
+Judged: 1
+Answer: 4
+Test case: ['us', 'north', 'korea', 'sign', 'nuclear', 'memo']
+
+No. 435
+Judged: 4
+Answer: 4
+Test case: ['russia', 'honor', 'sputnik', 'design']
+
+No. 436
+Judged: 1
+Answer: 3
+Test case: ['in', 'kenya', 's', 'capit', 'a', 'sens', 'that', 'danger', 'is', 'ever', 'stronger']
+
+No. 437
+Judged: 4
+Answer: 4
+Test case: ['bill', 'thank', 'for', 'the', 'rsa', 'memori', 'and', 'laugh']
+
+No. 438
+Judged: 3
+Answer: 5
+Test case: ['friendli', 'fire', 'pilot', 'experienc']
+
+No. 439
+Judged: 4
+Answer: 4
+Test case: ['myspac', 'welcom', 'french', 'friend']
+
+No. 440
+Judged: 4
+Answer: 3
+Test case: ['airlin', 'uk', 'airport', 'runwai', 'unsaf']
+
+No. 441
+Judged: 5
+Answer: 3
+Test case: ['the', 'amount', 'you', 'have', 'to', 'pai', 'for', 'a', 'bomb', 'scare']
+
+No. 442
+Judged: 1
+Answer: 4
+Test case: ['in', 'egypt', 'rice', 'speak', 'softli']
+
+No. 443
+Judged: 4
+Answer: 5
+Test case: ['weekli', 'nielsen', 'yvonn', 'de', 'carlo', 'munster', 'star', 'dead']
+
+No. 444
+Judged: 5
+Answer: 5
+Test case: ['senat', 'vote', 'to', 'revok', 'pension']
+
+No. 445
+Judged: 5
+Answer: 5
+Test case: ['earthlink', 'ceo', 'di', 'at', 'ag']
+
+No. 446
+Judged: 4
+Answer: 5
+Test case: ['softwar', 'giant', 'sap', 'miss', 'target']
+
+No. 447
+Judged: 5
+Answer: 6
+Test case: ['vital', 'sign', 'mental', 'abil', 'folic', 'acid', 'mai', 'improv', 'think', 'skill']
+
+No. 448
+Judged: 4
+Answer: 4
+Test case: ['de', 'villier', 'stretch', 'overal', 'lead']
+
+No. 449
+Judged: 4
+Answer: 4
+Test case: ['famili', 'celebr', 'return', 'of', 'son']
+
+No. 450
+Judged: 4
+Answer: 3
+Test case: ['china', 'detain', 'after', 'bodi', 'part', 'found', 'in', 'mail']
+
+No. 451
+Judged: 1
+Answer: 4
+Test case: ['north', 'korea', 'readi', 'to', 'discuss', 'nuke', 'disarma']
+
+No. 452
+Judged: 5
+Answer: 6
+Test case: ['for', 'women', 'noth', 's', 'like', 'the', 'smell', 'of', 'men', 's', 'sweat']
+
+No. 453
+Judged: 6
+Answer: 4
+Test case: ['nadal', 'want', 'australian', 'open', 'crown']
+
+No. 454
+Judged: 4
+Answer: 4
+Test case: ['beij', 'journal', 'olymp', 'construct', 'unearth', 'ancient', 'treasur', 'trove']
+
+No. 455
+Judged: 4
+Answer: 4
+Test case: ['chines', 'presid', 'arriv', 'in', 'mozambiqu', 'african', 'tour', 'nearli', 'over']
+
+No. 456
+Judged: 2
+Answer: 4
+Test case: ['reclus', 'mockingbird', 'author', 'attend', 'show']
+
+No. 457
+Judged: 3
+Answer: 4
+Test case: ['asia', 'near', 'pact', 'on', 'energi', 'secur']
+
+No. 458
+Judged: 3
+Answer: 3
+Test case: ['philippin', 'anti', 'terror', 'law', 'delai', 'until', 'june']
+
+No. 459
+Judged: 1
+Answer: 1
+Test case: ['ex', 'suspect', 'slam', 'anti', 'terror', 'law']
+
+No. 460
+Judged: 5
+Answer: 4
+Test case: ['studi', 'detect', 'a', 'gene', 'link', 'to', 'alzheim', 's']
+
+No. 461
+Judged: 4
+Answer: 4
+Test case: ['panda', 'cub', 'make', 'her', 'debut']
+
+No. 462
+Judged: 5
+Answer: 4
+Test case: ['harri', 'haul', 'put', 'south', 'africa', 'on', 'top']
+
+No. 463
+Judged: 5
+Answer: 4
+Test case: ['weight', 'loss', 'drug', 'to', 'be', 'sold', 'over', 'the', 'counter']
+
+No. 464
+Judged: 4
+Answer: 4
+Test case: ['beckham', 'outlin', 'reason', 'for', 'move']
+
+No. 465
+Judged: 4
+Answer: 6
+Test case: ['studi', 'find', 'gritti', 'air', 'rais', 'heart', 'diseas', 'risk', 'in', 'older', 'women']
+
+No. 466
+Judged: 6
+Answer: 1
+Test case: ['venezuela', 'iran', 'fight', 'u', 's', 'domin']
+
+No. 467
+Judged: 4
+Answer: 5
+Test case: ['housew', 'star', 'marcia', 'cross', 'on', 'bed', 'rest']
+
+No. 468
+Judged: 4
+Answer: 4
+Test case: ['blog', 'here', 'come', 'the', 'globe']
+
+No. 469
+Judged: 5
+Answer: 1
+Test case: ['greek', 'polic', 'hunt', 'embassi', 'attack']
+
+No. 470
+Judged: 5
+Answer: 6
+Test case: ['appl', 'warn', 'itun', 'user', 'to', 'wait', 'on', 'vista']
+
+No. 471
+Judged: 3
+Answer: 3
+Test case: ['tsunami', 'fear', 'eas', 'after', 'quak']
+
+No. 472
+Judged: 4
+Answer: 4
+Test case: ['china', 'consid', 'eurobond', 'reserv']
+
+No. 473
+Judged: 5
+Answer: 6
+Test case: ['underarm', 'bowl', 'them', 'over']
+
+No. 474
+Judged: 3
+Answer: 5
+Test case: ['at', 'least', 'die', 'as', 'blast', 'level', 'baghdad', 'market']
+
+No. 475
+Judged: 1
+Answer: 1
+Test case: ['new', 'mccain', 'team', 'made', 'attack', 'ad', 'he', 'onc', 'fault']
+
+No. 476
+Judged: 5
+Answer: 3
+Test case: ['death', 'as', 'bird', 'flu', 'flare', 'in', 'asia']
+
+No. 477
+Judged: 5
+Answer: 4
+Test case: ['hama', 'fatah', 'leader', 'pledg', 'to', 'meet', 'until', 'thei', 'reach', 'agreement']
+
+No. 478
+Judged: 4
+Answer: 2
+Test case: ['offic', 'had', 'rapport', 'with', 'alleg', 'abductor']
+
+No. 479
+Judged: 6
+Answer: 5
+Test case: ['no', 'e', 'book', 'for', 'harri', 'potter', 'vii']
+
+No. 480
+Judged: 4
+Answer: 4
+Test case: ['review', 'nokia', 'xpress', 'music']
+
+No. 481
+Judged: 5
+Answer: 6
+Test case: ['can', 't', 'do', 'thi', 'anymor', 'not', 'jack']
+
+No. 482
+Judged: 4
+Answer: 6
+Test case: ['black', 'hole', 'triplet', 'spot']
+
+No. 483
+Judged: 1
+Answer: 6
+Test case: ['israel', 'weigh', 'old', 'citi', 'project', 'webcast']
+
+No. 484
+Judged: 5
+Answer: 5
+Test case: ['indonesian', 'bird', 'flu', 'death', 'hit']
+
+No. 485
+Judged: 3
+Answer: 5
+Test case: ['somali', 'refuge', 'cut', 'off', 'from', 'aid']
+
+No. 486
+Judged: 1
+Answer: 4
+Test case: ['microsoft', 'downplai', 'vista', 'speech', 'recognit', 'hack']
+
+No. 487
+Judged: 4
+Answer: 4
+Test case: ['next', 'island', 'hot', 'spot', 'st', 'lucia']
+
+No. 488
+Judged: 2
+Answer: 1
+Test case: ['itali', 'to', 'hold', 'no', 'show', 'trial', 'of', 'bronx', 'gi', 'in', 'iraq', 'slai']
+
+No. 489
+Judged: 6
+Answer: 4
+Test case: ['rescu', 'boi', 'parent', 'hail', 'miracl']
+
+No. 490
+Judged: 2
+Answer: 2
+Test case: ['canadian', 'track', 'in', 'child', 'porn', 'ring']
+
+No. 491
+Judged: 4
+Answer: 6
+Test case: ['teen', 'hack', 'venezuelan', 'govern', 'web', 'site']
+
+No. 492
+Judged: 6
+Answer: 3
+Test case: ['russia', 'plan', 'new', 'icbm', 'nuclear', 'sub']
+
+No. 493
+Judged: 2
+Answer: 4
+Test case: ['gere', 'cheer', 'sex', 'worker', 'in', 'aid', 'fight']
+
+No. 494
+Judged: 5
+Answer: 6
+Test case: ['studi', 'male', 'sweat', 'caus', 'femal', 'hormon', 'to', 'rise']
+
+No. 495
+Judged: 5
+Answer: 5
+Test case: ['collis', 'on', 'ici', 'road', 'kill']
+
+No. 496
+Judged: 3
+Answer: 4
+Test case: ['surpris', 'china', 'cut', 'price', 'of', 'ga']
+
+No. 497
+Judged: 4
+Answer: 4
+Test case: ['what', 'the', 'godfath', 'of', 'soul', 'meant', 'to', 'me']
+
+No. 498
+Judged: 6
+Answer: 4
+Test case: ['new', 'mar', 'orbit', 'spot', 'pathfind', 'land', 'site']
+
+No. 499
+Judged: 4
+Answer: 1
+Test case: ['mass', 'venezuela', 'opposit', 'ralli']
+
+No. 500
+Judged: 4
+Answer: 4
+Test case: ['glamour', 'and', 'borat', 'at', 'golden', 'globe']
+
+No. 501
+Judged: 4
+Answer: 3
+Test case: ['terror', 'offici', 'see', 'al', 'qaeda', 'chief', 'regain', 'power']
+
+No. 502
+Judged: 3
+Answer: 6
+Test case: ['ivrea', 'journal', 'in', 'italian', 'town', 'a', 'civic', 'lesson', 'from', 'pelt', 'neighbor']
+
+No. 503
+Judged: 3
+Answer: 4
+Test case: ['iraqi', 'sunni', 'land', 'show', 'new', 'oil', 'and', 'ga', 'promis']
+
+No. 504
+Judged: 3
+Answer: 4
+Test case: ['princess', 'and', 'heir', 'of', 'franz', 'ferdinand', 'fight', 'to', 'repeal', 'a', 'law', 'and', 'gain', 'a', 'castl']
+
+No. 505
+Judged: 4
+Answer: 3
+Test case: ['a', 'film', 'star', 'in', 'kampala', 'conjur', 'amino', 'ghost']
+
+No. 506
+Judged: 4
+Answer: 3
+Test case: ['milit', 'attack', 'u', 's', 'base', 'in', 'iraq']
+
+No. 507
+Judged: 3
+Answer: 3
+Test case: ['north', 'africa', 'fear', 'as', 'stage', 'ground', 'for', 'terror']
+
+No. 508
+Judged: 3
+Answer: 3
+Test case: ['iran', 'sai', 'sunni', 'us', 'pakistan', 'as', 'base', 'plan', 'fatal', 'bomb']
+
+No. 509
+Judged: 2
+Answer: 1
+Test case: ['anglican', 'rebuk', 'u', 's', 'branch', 'on', 'same', 'sex', 'union']
+
+No. 510
+Judged: 5
+Answer: 5
+Test case: ['homemad', 'bomb', 'kill', 'on', 'indian', 'train']
+
+No. 511
+Judged: 4
+Answer: 3
+Test case: ['al', 'qaeda', 'chief', 'ar', 'seen', 'to', 'regain', 'power']
+
+No. 512
+Judged: 4
+Answer: 1
+Test case: ['chvez', 'threaten', 'to', 'jail', 'violat', 'of', 'price', 'control']
+
+No. 513
+Judged: 5
+Answer: 3
+Test case: ['bush', 'declar', 'iran', 's', 'arm', 'role', 'in', 'iraq', 'is', 'certain']
+
+No. 514
+Judged: 1
+Answer: 4
+Test case: ['accord', 'on', 'north', 'korea', 'is', 'announc']
+
+No. 515
+Judged: 3
+Answer: 3
+Test case: ['u', 's', 'sai', 'power', 'iraqi', 'cleric', 'is', 'live', 'in', 'iran']
+
+No. 516
+Judged: 3
+Answer: 4
+Test case: ['baghdad', 'plan', 'is', 'a', 'success', 'iraq', 'prime', 'minist', 'tell', 'bush']
+
+No. 517
+Judged: 3
+Answer: 4
+Test case: ['iraqi', 'sunni', 'land', 'show', 'new', 'oil', 'and', 'ga', 'promis']
+
+No. 518
+Judged: 5
+Answer: 1
+Test case: ['disput', 'over', 'iraqi', 'cleric', 'said', 'to', 'have', 'gone', 'to', 'iran']
+
+No. 519
+Judged: 3
+Answer: 3
+Test case: ['plan', 'seen', 'in', 'iraqi', 'attack', 'on', 'u', 's', 'copter']
+
+No. 520
+Judged: 6
+Answer: 5
+Test case: ['in', 'the', 'world', 'of', 'life', 'save', 'drug', 'a', 'grow', 'epidem', 'of', 'deadli', 'fake']
+
+No. 521
+Judged: 4
+Answer: 6
+Test case: ['basic', 'a', 'mammal', 'in', 'winter', 'with', 'a', 'furnac', 'of', 'her', 'own']
+
+No. 522
+Judged: 4
+Answer: 6
+Test case: ['book', 'on', 'scienc', 'the', 'problem', 'in', 'model', 'natur', 'with', 'it', 'unruli', 'natur', 'tendenc']
+
+No. 523
+Judged: 2
+Answer: 6
+Test case: ['believ', 'scriptur', 'but', 'plai', 'by', 'scienc', 's', 'rule']
+
+No. 524
+Judged: 4
+Answer: 4
+Test case: ['a', 'familiar', 'and', 'prescient', 'voic', 'brought', 'to', 'life']
+
+No. 525
+Judged: 6
+Answer: 6
+Test case: ['find', 'a', 'cool', 'million', 'for', 'a', 'climat', 'backup', 'plan']
+
+No. 526
+Judged: 4
+Answer: 4
+Test case: ['call', 'it', 'serendip', 'a', 'miss', 'piec', 'of', 'washington', 's', 'war', 'tent', 'is', 'found']
+
+No. 527
+Judged: 2
+Answer: 6
+Test case: ['free', 'will', 'now', 'you', 'have', 'it', 'now', 'you', 'don', 't']
+
+No. 528
+Judged: 4
+Answer: 6
+Test case: ['archaeologist', 'find', 'sign', 'of', 'earli', 'chimp', 'tool', 'us']
+
+No. 529
+Judged: 4
+Answer: 6
+Test case: ['wizardri', 'at', 'harvard', 'physicist', 'move', 'light']
+
+No. 530
+Judged: 6
+Answer: 2
+Test case: ['the', 'summit', 'a', 'slap', 'in', 'the', 'face', 'of', 'the', 'palestinian']
+
+No. 531
+Judged: 3
+Answer: 4
+Test case: ['moscow', 'sai', 'palestin', 'isra', 'contact', 'kei', 'to', 'mideast', 'peac']
+
+No. 532
+Judged: 4
+Answer: 5
+Test case: ['mideast', 'summit', 'edn', 'with', 'littl', 'progress']
+
+No. 533
+Judged: 4
+Answer: 3
+Test case: ['india', 'decri', 'an', 'act', 'of', 'sabotag']
+
+No. 534
+Judged: 4
+Answer: 4
+Test case: ['pakistan', 'india', 'peac', 'talk', 'plan', 'despit', 'bomb']
+
+No. 535
+Judged: 3
+Answer: 3
+Test case: ['czech', 'pole', 'get', 'missil', 'warn']
+
+No. 536
+Judged: 5
+Answer: 3
+Test case: ['russia', 'warn', 'us', 'against', 'missil', 'base', 'in', 'east', 'europ']
+
+No. 537
+Judged: 5
+Answer: 4
+Test case: ['chenei', 'start', 'visit', 'to', 'japan', 'australia']
+
+No. 538
+Judged: 4
+Answer: 4
+Test case: ['china', 'chenei', 'shore', 'up', 'the', 'trilater', 'allianc']
+
+No. 539
+Judged: 1
+Answer: 3
+Test case: ['iraq', 'insurg', 'attack', 'us', 'base']
+
+No. 540
+Judged: 3
+Answer: 5
+Test case: ['us', 'soldier', 'die', 'in', 'dai', 'of', 'violenc']
+
+No. 541
+Judged: 5
+Answer: 5
+Test case: ['iraqi', 'suicid', 'attack', 'kill', 'two', 'us', 'troop', 'as', 'milit', 'fight', 'purg']
+
+No. 542
+Judged: 6
+Answer: 3
+Test case: ['iran', 'reneg', 'on', 'nuclear', 'payment', 'to', 'russia']
+
+No. 543
+Judged: 5
+Answer: 5
+Test case: ['top', 'colombia', 'offici', 'resign']
+
+No. 544
+Judged: 5
+Answer: 5
+Test case: ['colombia', 'fm', 'resign', 'after', 'rel', 'arrest', 'for', 'militia', 'link']
+
+No. 545
+Judged: 5
+Answer: 2
+Test case: ['foreign', 'minist', 'of', 'colombia', 'quit', 'in', 'scandal']
+
+No. 546
+Judged: 2
+Answer: 5
+Test case: ['new', 'zealand', 'unlik', 'to', 'allow', 'crippl', 'japanes', 'whaler']
+
+No. 547
+Judged: 5
+Answer: 5
+Test case: ['damag', 'japanes', 'whale', 'ship', 'mai', 'resum', 'hunt', 'off', 'antarctica']
+
+No. 548
+Judged: 5
+Answer: 2
+Test case: ['japanes', 'whale', 'ship', 'won', 't', 'accept', 'help']
+
+No. 549
+Judged: 6
+Answer: 4
+Test case: ['iran', 'top', 'n', 'envoi', 'head', 'for', 'vienna', 'for', 'nuke', 'talk']
+
+No. 550
+Judged: 5
+Answer: 5
+Test case: ['victim', 'of', 'air', 'india', 'still', 'wait', 'for', 'justic']
+
+No. 551
+Judged: 6
+Answer: 2
+Test case: ['kanishka', 'bomb', 'case', 'inquiri', 'judg', 'threaten', 'to', 'quit']
+
+No. 552
+Judged: 5
+Answer: 1
+Test case: ['judg', 'threaten', 'to', 'shut', 'down', 'air', 'india', 'inquiri']
+
+No. 553
+Judged: 4
+Answer: 4
+Test case: ['royal', 'rescu', 'presidenti', 'hope', 'with', 'command', 'perform']
+
+No. 554
+Judged: 4
+Answer: 4
+Test case: ['royal', 'seek', 'to', 'reviv', 'french', 'bid']
+
+No. 555
+Judged: 4
+Answer: 4
+Test case: ['sarkozi', 'comfort', 'zone', 'offer', 'a', 'royal', 'opportun']
+
+No. 556
+Judged: 3
+Answer: 3
+Test case: ['hick', 'first', 'in', 'line', 'for', 'trial', 'bush', 'sai']
+
+No. 557
+Judged: 3
+Answer: 6
+Test case: ['australia', 'tell', 'bush', 'to', 'speed', 'up', 'guantanamo', 'trial']
+
+No. 558
+Judged: 3
+Answer: 3
+Test case: ['howard', 'press', 'bush', 'on', 'terror', 'suspect']
+
+No. 559
+Judged: 4
+Answer: 3
+Test case: ['franc', 'end', 'toxic', 'alert', 'at', 'canadian', 'embassi', 'in', 'pari']
+
+No. 560
+Judged: 5
+Answer: 3
+Test case: ['pari', 'polic', 'investig', 'packag', 'at', 'canadian', 'embassi']
+
+No. 561
+Judged: 4
+Answer: 3
+Test case: ['fals', 'alarm', 'at', 'canadian', 'embassi', 'in', 'pari']
+
+No. 562
+Judged: 3
+Answer: 4
+Test case: ['afghan', 'forc', 'retak', 'town', 'that', 'wa', 'overrun', 'by', 'taliban']
+
+No. 563
+Judged: 3
+Answer: 3
+Test case: ['taliban', 'seiz', 'rural', 'district', 'in', 'southwest', 'as', 'polic', 'flee']
+
+No. 564
+Judged: 3
+Answer: 5
+Test case: ['afghan', 'poppi', 'war', 'alien', 'farmer']
+
+No. 565
+Judged: 1
+Answer: 4
+Test case: ['will', 'north', 'korea', 'honor', 'pledg', 'thi', 'time']
+
+No. 566
+Judged: 4
+Answer: 6
+Test case: ['kim', 'jong', 'il', 'ban', 'japanes', 'car', 'in', 'north', 'korea']
+
+No. 567
+Judged: 1
+Answer: 1
+Test case: ['iran', 'vs', 'north', 'korea', 'not', 'all', 'enemi', 'ar', 'equal']
+
+No. 568
+Judged: 4
+Answer: 4
+Test case: ['cathol', 'archbishop', 'outlin', 'anglican', 'merger', 'hope']
+
+No. 569
+Judged: 3
+Answer: 4
+Test case: ['anglican', 'and', 'cathol', 'church', 'could', 'merg']
+
+No. 570
+Judged: 5
+Answer: 5
+Test case: ['us', 'helicopt', 'crash', 'kill', 'troop', 'in', 'afghanistan']
+
+No. 571
+Judged: 5
+Answer: 5
+Test case: ['eight', 'us', 'soldier', 'kill', 'in', 'zabul', 'helicopt', 'crash']
+
+No. 572
+Judged: 5
+Answer: 4
+Test case: ['arroyo', 'laud', 'passag', 'of', 'anti', 'terror', 'bill']
+
+No. 573
+Judged: 4
+Answer: 4
+Test case: ['hous', 'pass', 'anti', 'terror', 'measur', 'manila']
+
+No. 574
+Judged: 6
+Answer: 4
+Test case: ['livingston', 's', 'transport', 'empir', 'mai', 'extend']
+
+No. 575
+Judged: 3
+Answer: 4
+Test case: ['london', 'is', 'pace', 'setter', 'on', 'congest', 'toll', 'sai', 'mayor']
+
+No. 576
+Judged: 4
+Answer: 1
+Test case: ['protest', 'greet', 'congest', 'charg', 's', 'westward', 'push']
+
+No. 577
+Judged: 4
+Answer: 5
+Test case: ['thailand', 'attack', 'kill', 'three', 'injur']
+
+No. 578
+Judged: 4
+Answer: 4
+Test case: ['thai', 'govt', 'move', 'to', 'smooth', 'over', 'relat', 'with', 'south']
+
+No. 579
+Judged: 3
+Answer: 3
+Test case: ['bomb', 'sai', 'muslim', 'rebel', 'won', 't', 'negoti']
+
+No. 580
+Judged: 5
+Answer: 6
+Test case: ['root', 'of', 'autism', 'more', 'complex', 'than', 'thought']
+
+No. 581
+Judged: 6
+Answer: 6
+Test case: ['largest', 'ever', 'autism', 'studi', 'identifi', 'two', 'genet', 'culprit']
+
+No. 582
+Judged: 5
+Answer: 4
+Test case: ['canadian', 'breakthrough', 'offer', 'hope', 'on', 'autism']
+
+No. 583
+Judged: 4
+Answer: 3
+Test case: ['bewar', 'of', 'peanut', 'butter', 'pathogen']
+
+No. 584
+Judged: 5
+Answer: 4
+Test case: ['expert', 'offer', 'advic', 'on', 'salmonella']
+
+No. 585
+Judged: 4
+Answer: 4
+Test case: ['expert', 'issu', 'new', 'heart', 'diseas', 'guidelin', 'for', 'women']
+
+No. 586
+Judged: 5
+Answer: 4
+Test case: ['for', 'women', 'aspirin', 'a', 'dai', 'could', 'keep', 'stroke', 'awai']
+
+No. 587
+Judged: 4
+Answer: 3
+Test case: ['high', 'cholesterol', 'rais', 'stroke', 'risk', 'healthi', 'women']
+
+No. 588
+Judged: 5
+Answer: 3
+Test case: ['cook', 'chicken', 'breast', 'join', 'taint', 'food', 'recal']
+
+No. 589
+Judged: 5
+Answer: 3
+Test case: ['readi', 'to', 'eat', 'chicken', 'breast', 'recal', 'due', 'to', 'suspect', 'listeria']
+
+No. 590
+Judged: 5
+Answer: 6
+Test case: ['fulli', 'cook', 'chicken', 'strip', 'recal']
+
+No. 591
+Judged: 5
+Answer: 6
+Test case: ['committe', 'debat', 'cancer', 'vaccin', 'plan']
+
+No. 592
+Judged: 5
+Answer: 4
+Test case: ['stop', 'cancer', 'with', 'a', 'shot']
+
+No. 593
+Judged: 5
+Answer: 4
+Test case: ['mln', 'bird', 'to', 'be', 'vaccin', 'from', 'bird', 'flu', 'near', 'moscow']
+
+No. 594
+Judged: 5
+Answer: 3
+Test case: ['thousand', 'test', 'after', 'russian', 'h', 'n', 'outbreak']
+
+No. 595
+Judged: 5
+Answer: 3
+Test case: ['russian', 'bird', 'flu', 'outbreak', 'is', 'deadli', 'asian', 'strain']
+
+No. 596
+Judged: 3
+Answer: 5
+Test case: ['bernard', 'matthew', 'to', 'lai', 'off', 'up', 'to', 'worker']
+
+No. 597
+Judged: 3
+Answer: 5
+Test case: ['matthew', 'lai', 'off', 'turkei', 'worker']
+
+No. 598
+Judged: 4
+Answer: 3
+Test case: ['reopen', 'bird', 'flu', 'hitfactori', 'ignor', 'risk', 'poultryman']
+
+No. 599
+Judged: 5
+Answer: 5
+Test case: ['goodby', 'to', 'girlhood']
+
+No. 600
+Judged: 5
+Answer: 1
+Test case: ['media', 'cite', 'for', 'show', 'girl', 'as', 'sex', 'object']
+
+No. 601
+Judged: 5
+Answer: 1
+Test case: ['sexualis', 'harm', 'young', 'girl']
+
+No. 602
+Judged: 5
+Answer: 3
+Test case: ['a', 'shot', 'in', 'the', 'arm']
+
+No. 603
+Judged: 5
+Answer: 3
+Test case: ['thousand', 'line', 'up', 'to', 'get', 'late', 'flu', 'shot']
+
+No. 604
+Judged: 5
+Answer: 4
+Test case: ['king', 'counti', 'offer', 'some', 'free', 'flu', 'vaccin']
+
+No. 605
+Judged: 4
+Answer: 4
+Test case: ['bush', 'vow', 'cooper', 'on', 'health', 'care']
+
+No. 606
+Judged: 4
+Answer: 4
+Test case: ['health', 'return', 'as', 'hot', 'issu', 'in', 'race']
+
+No. 607
+Judged: 4
+Answer: 4
+Test case: ['small', 'busi', 'owner', 'find', 'bush', 'health', 'plan', 'appeal']
+
+No. 608
+Judged: 5
+Answer: 3
+Test case: ['pediatrician', 'sai', 'more', 'cord', 'blood', 'is', 'need', 'now']
+
+No. 609
+Judged: 5
+Answer: 6
+Test case: ['whether', 'to', 'save', 'cord', 'blood', 'can', 'be', 'puzzl', 'for', 'parent']
+
+No. 610
+Judged: 5
+Answer: 4
+Test case: ['retin', 'implant', 'help', 'blind', 'peopl', 'see', 'again']
+
+No. 611
+Judged: 5
+Answer: 6
+Test case: ['indonesia', 'will', 'not', 'share', 'flu', 'sampl']
+
+No. 612
+Judged: 4
+Answer: 3
+Test case: ['health', 'canada', 'issu', 'advic', 'on', 'can', 'tuna']
+
+No. 613
+Judged: 3
+Answer: 5
+Test case: ['cholesterol', 'link', 'in', 'diabet', 'studi']
+
+No. 614
+Judged: 4
+Answer: 6
+Test case: ['pig', 'cell', 'hope', 'for', 'diabet', 'cure']
+
+No. 615
+Judged: 4
+Answer: 6
+Test case: ['sick', 'heart', 'switch', 'on', 'a', 'fetal', 'gene']
+
+No. 616
+Judged: 4
+Answer: 6
+Test case: ['foetal', 'mechan', 'help', 'heart', 'failur']
+
+No. 617
+Judged: 5
+Answer: 3
+Test case: ['plan', 'cesarean', 'not', 'risk', 'free', 'group', 'warn']
+
+No. 618
+Judged: 4
+Answer: 4
+Test case: ['scientist', 'tout', 'cocoa', 's', 'health', 'benefit']
+
+No. 619
+Judged: 6
+Answer: 4
+Test case: ['feed', 'your', 'brain', 'new', 'benefit', 'found', 'in', 'chocol']
+
+No. 620
+Judged: 4
+Answer: 4
+Test case: ['some', 'cocoa', 'mai', 'improv', 'brain', 'blood', 'flow']
+
+No. 621
+Judged: 1
+Answer: 1
+Test case: ['lawyer', 'for', 'deceas', 'nazi', 'era', 'collabor', 'papon', 'vow', 'to', 'buri', 'him']
+
+No. 622
+Judged: 5
+Answer: 4
+Test case: ['cocoa', 'could', 'be', 'antidot', 'to', 'ag', 'relat', 'diseas', 'sai', 'new', 'studi']
+
+No. 623
+Judged: 3
+Answer: 6
+Test case: ['china', 'deni', 'report', 'of', 'north', 'korean', 'apolog']
+
+No. 624
+Judged: 3
+Answer: 1
+Test case: ['hungarian', 'opposit', 'call', 'for', 'vote', 'after', 'violenc', 'escal']
+
+No. 625
+Judged: 6
+Answer: 5
+Test case: ['au', 'regret', 'sudan', 's', 'expuls', 'of', 'un', 'envoi']
+
+No. 626
+Judged: 2
+Answer: 3
+Test case: ['bush', 'offici', 'no', 'big', 'move', 'in', 'iraq', 'plan']
+
+No. 627
+Judged: 4
+Answer: 6
+Test case: ['oppon', 'is', 'put', 'on', 'the', 'spot', 'over', 'remark', 'about', 'clinton']
+
+No. 628
+Judged: 2
+Answer: 4
+Test case: ['hous', 'ethic', 'panel', 'talk', 'to', 'hastert', 'aid']
+
+No. 629
+Judged: 2
+Answer: 4
+Test case: ['bellsouth', 'sai', 'profit', 'rise', 'on', 'cingular', 'earn']
+
+No. 630
+Judged: 4
+Answer: 5
+Test case: ['enron', 'boss', 'get', 'year', 'sentenc']
+
+No. 631
+Judged: 5
+Answer: 4
+Test case: ['soni', 'apolog', 'for', 'batteri', 'recal']
+
+No. 632
+Judged: 6
+Answer: 4
+Test case: ['googl', 'unveil', 'do', 'it', 'yourself', 'search', 'engin']
+
+No. 633
+Judged: 4
+Answer: 4
+Test case: ['firefox', 'hit', 'the', 'web']
+
+No. 634
+Judged: 6
+Answer: 4
+Test case: ['oracl', 'world', 'open', 'with', 'dell', 'unveil', 'amd', 'power', 'comput']
+
+No. 635
+Judged: 5
+Answer: 5
+Test case: ['seahawk', 'qb', 'hasselbeck', 'out', 'week']
+
+No. 636
+Judged: 4
+Answer: 4
+Test case: ['marathon', 'winner', 'releas', 'from', 'hospit']
+
+No. 637
+Judged: 4
+Answer: 1
+Test case: ['punter', 'charg', 'with', 'stab', 'ask', 'to', 'live', 'outsid', 'state']
+
+No. 638
+Judged: 5
+Answer: 4
+Test case: ['allmending', 'join', 'toyota', 'team', 'in', 'nascar']
+
+No. 639
+Judged: 3
+Answer: 5
+Test case: ['try', 'to', 'assess', 'the', 'damag', 'in', 'cleveland']
+
+No. 640
+Judged: 5
+Answer: 4
+Test case: ['bryant', 's', 'boot', 'mai', 'have', 'salvag', 'buc', 'season']
+
+No. 641
+Judged: 5
+Answer: 4
+Test case: ['thi', 'week', 'in', 'auto', 'race', 'octob', 'octob']
+
+No. 642
+Judged: 5
+Answer: 6
+Test case: ['merriman', 'violat', 'stun', 'ex', 'teammat']
+
+No. 643
+Judged: 5
+Answer: 1
+Test case: ['bruce', 'revel', 'in', 'upset']
+
+No. 644
+Judged: 4
+Answer: 5
+Test case: ['steeler', 'roethlisberg', 'ha', 'concuss']
+
+No. 645
+Judged: 4
+Answer: 6
+Test case: ['arthur', 'upset', 'robredo', 'in', 'first', 'round', 'at', 'the', 'st', 'petersburg', 'open']
+
+No. 646
+Judged: 6
+Answer: 4
+Test case: ['mbeki', 'world', 'cup', 'plan', 'on', 'track']
+
+No. 647
+Judged: 2
+Answer: 4
+Test case: ['clinic', 'everton', 'show', 'moy', 'mean', 'busi']
+
+No. 648
+Judged: 4
+Answer: 4
+Test case: ['ms', 'add', 'offic', 'to', 'vista', 'coupon', 'program']
+
+No. 649
+Judged: 5
+Answer: 6
+Test case: ['on', 'search', 'doe', 'not', 'fit', 'all']
+
+No. 650
+Judged: 6
+Answer: 6
+Test case: ['appl', 's', 'dark', 'secret', 'the', 'claim']
+
+No. 651
+Judged: 5
+Answer: 5
+Test case: ['bad', 'weather', 'cancel', 'men', 's', 'downhil']
+
+No. 652
+Judged: 4
+Answer: 4
+Test case: ['cool', 'million', 'for', 'youtub', 'founder']
+
+No. 653
+Judged: 4
+Answer: 4
+Test case: ['london', 'market', 'a', 'shop', 'dine', 'haven']
+
+No. 654
+Judged: 4
+Answer: 4
+Test case: ['jackass', 'star', 'marri', 'childhood', 'friend', 'the', 'secret', 'peopl', 'reveal']
+
+No. 655
+Judged: 4
+Answer: 4
+Test case: ['audio', 'slide', 'show', 'a', 'love', 'stori', 'last', 'year']
+
+No. 656
+Judged: 3
+Answer: 4
+Test case: ['microsoft', 'to', 'releas', 'next', 'gener', 'phone']
+
+No. 657
+Judged: 4
+Answer: 5
+Test case: ['bodi', 'shop', 's', 'roddick', 'ha', 'hepat', 'c']
+
+No. 658
+Judged: 4
+Answer: 3
+Test case: ['teen', 'allegedli', 'arm', 'by', 'mom', 'turn', 'self', 'in']
+
+No. 659
+Judged: 4
+Answer: 4
+Test case: ['oxfam', 'action', 'need', 'for', 'chad']
+
+No. 660
+Judged: 2
+Answer: 5
+Test case: ['violenc', 'continu', 'at', 'disput', 'holi', 'site']
+
+No. 661
+Judged: 5
+Answer: 5
+Test case: ['storm', 'leav', 'behind', 'major', 'travel', 'troubl']
+
+No. 662
+Judged: 5
+Answer: 5
+Test case: ['u', 's', 'troop', 'kill', 'hunt', 'weapon', 'cach']
+
+No. 663
+Judged: 4
+Answer: 4
+Test case: ['china', 's', 'friend', 'highlight', 'web', 'freedom']
+
+No. 664
+Judged: 4
+Answer: 4
+Test case: ['nato', 'afghanistan', 'peac', 'by']
+
+No. 665
+Judged: 5
+Answer: 4
+Test case: ['alaska', 's', 'northern', 'light', 'captiv', 'japanes']
+
+No. 666
+Judged: 5
+Answer: 5
+Test case: ['smith', 'can', 't', 'be', 'buri', 'until', 'hear']
+
+No. 667
+Judged: 4
+Answer: 4
+Test case: ['spacewalk', 'set', 'new', 'u', 's', 'record']
+
+No. 668
+Judged: 4
+Answer: 6
+Test case: ['fortun', 'india', 'the', 'superpow', 'think', 'again']
+
+No. 669
+Judged: 3
+Answer: 1
+Test case: ['kerri', 'blast', 'escal', 'of', 'misguid', 'war']
+
+No. 670
+Judged: 5
+Answer: 6
+Test case: ['anna', 'nicol', 'claimant', 'a', 'princ', 'of', 'a', 'gui']
+
+No. 671
+Judged: 4
+Answer: 4
+Test case: ['ronni', 'and', 'eto', 'o', 'hug', 'and', 'make', 'up']
+
+No. 672
+Judged: 4
+Answer: 4
+Test case: ['best', 'of', 'the', 'chicago', 'auto', 'show']
+
+No. 673
+Judged: 4
+Answer: 4
+Test case: ['grei', 's', 'betti', 'scrub', 'get', 'boost']
+
+No. 674
+Judged: 4
+Answer: 5
+Test case: ['massiv', 'mud', 'trap', 'dozen', 'of', 'famili']
+
+No. 675
+Judged: 3
+Answer: 6
+Test case: ['edward', 'blogger', 'quit', 'becom', 'journalist', 'martyr']
+
+No. 676
+Judged: 3
+Answer: 5
+Test case: ['town', 'pack', 'gym', 'to', 'mourn', 'kill', 'in', 'fire']
+
+No. 677
+Judged: 3
+Answer: 4
+Test case: ['spain', 'ahead', 'although', 'nadal', 'is', 'out']
+
+No. 678
+Judged: 5
+Answer: 4
+Test case: ['ecb', 'hold', 'rate', 'at', 'percent']
+
+No. 679
+Judged: 1
+Answer: 3
+Test case: ['iran', 'reject', 'us', 'claim', 'of', 'suppli', 'weapon', 'in', 'iraq']
+
+No. 680
+Judged: 4
+Answer: 4
+Test case: ['jakarta', 'begin', 'disinfect']
+
+No. 681
+Judged: 5
+Answer: 5
+Test case: ['rowl', 'heartbroken', 'euphor', 'at', 'potter', 's', 'end']
+
+No. 682
+Judged: 4
+Answer: 2
+Test case: ['appl', 'rev', 'up', 'mac', 'attack', 'on', 'vista']
+
+No. 683
+Judged: 4
+Answer: 3
+Test case: ['fear', 'hinder', 'black', 'marrow', 'donat']
+
+No. 684
+Judged: 3
+Answer: 1
+Test case: ['texan', 'allegedli', 'join', 'somalia', 'rebel', 'plot']
+
+No. 685
+Judged: 3
+Answer: 4
+Test case: ['u', 's', 'to', 'allow', 'iraqi', 'refuge']
+
+No. 686
+Judged: 4
+Answer: 3
+Test case: ['japan', 'whale', 'activist', 'terrorist']
+
+No. 687
+Judged: 1
+Answer: 6
+Test case: ['hannib', 'bite', 'the', 'big', 'on']
+
+No. 688
+Judged: 1
+Answer: 1
+Test case: ['women', 'protest', 'pakistan', 'demolit']
+
+No. 689
+Judged: 3
+Answer: 4
+Test case: ['wii', 'new', 'for', 'gamer']
+
+No. 690
+Judged: 6
+Answer: 4
+Test case: ['democrat', 'look', 'beyond', 'symbol', 'vote', 'on', 'iraq']
+
+No. 691
+Judged: 3
+Answer: 6
+Test case: ['portug', 'to', 'vote', 'on', 'abort', 'law']
+
+No. 692
+Judged: 3
+Answer: 3
+Test case: ['frustrat', 'rise', 'as', 'north', 'korea', 'nuclear', 'talk', 'stall']
+
+No. 693
+Judged: 4
+Answer: 6
+Test case: ['hors', 'teeth', 'give', 'detail', 'of', 'ancient', 'big', 'chill']
+
+No. 694
+Judged: 4
+Answer: 6
+Test case: ['scam', 'lure', 'victim', 'with', 'free', 'puppi', 'offer']
+
+No. 695
+Judged: 4
+Answer: 4
+Test case: ['two', 'korea', 'to', 'resum', 'talk']
+
+No. 696
+Judged: 5
+Answer: 4
+Test case: ['mickelson', 'drive', 'forc', 'at', 'master']
+
+No. 697
+Judged: 4
+Answer: 4
+Test case: ['england', 'opt', 'for', 'bopara', 'over', 'loy']
+
+No. 698
+Judged: 4
+Answer: 4
+Test case: ['creat', 'own', 'thrillvil', 'for', 'a', 'wild', 'ride']
+
+No. 699
+Judged: 2
+Answer: 6
+Test case: ['edward', 'campaign', 'blogger', 'quit', 'amid', 'cathol', 'controversi']
+
+No. 700
+Judged: 6
+Answer: 5
+Test case: ['judg', 'preserv', 'anna', 'nicol', 's', 'bodi']
+
+No. 701
+Judged: 4
+Answer: 4
+Test case: ['dolphin', 'sea', 'lion', 'mai', 'report', 'for', 'duti', 'soon']
+
+No. 702
+Judged: 3
+Answer: 3
+Test case: ['nasdaq', 'lse', 'battl', 'near', 'deadlin']
+
+No. 703
+Judged: 5
+Answer: 4
+Test case: ['a', 'person', 'plea', 'for', 'hpv', 'vaccin', 'plan']
+
+No. 704
+Judged: 5
+Answer: 4
+Test case: ['u', 's', 'open', 'door', 'for', 'iraqi', 'refuge']
+
+No. 705
+Judged: 5
+Answer: 5
+Test case: ['swiss', 'plane', 'crash', 'at', 'moscow', 'airport']
+
+No. 706
+Judged: 5
+Answer: 4
+Test case: ['studi', 'nap', 'might', 'help', 'heart']
+
+No. 707
+Judged: 4
+Answer: 4
+Test case: ['myspac', 'sale', 'surg']
+
+No. 708
+Judged: 4
+Answer: 5
+Test case: ['telecom', 'giant', 'slash', 'job']
+
+No. 709
+Judged: 5
+Answer: 4
+Test case: ['air', 'franc', 'klm', 'profit', 'rise']
+
+No. 710
+Judged: 5
+Answer: 3
+Test case: ['uganda', 'parliament', 'vote', 'to', 'send', 'troop', 'to', 'somalia']
+
+No. 711
+Judged: 4
+Answer: 4
+Test case: ['king', 'and', 'queen', 'reign', 'at', 'british', 'film', 'award']
+
+No. 712
+Judged: 4
+Answer: 4
+Test case: ['murphi', 'rule', 'box', 'offic', 'with', 'norbit']
+
+No. 713
+Judged: 5
+Answer: 3
+Test case: ['thousand', 'ralli', 'in', 'lebanon']
+
+No. 714
+Judged: 5
+Answer: 4
+Test case: ['yahoo', 's', 'mission', 'quest']
+
+No. 715
+Judged: 3
+Answer: 4
+Test case: ['area', 'should', 'get', 'inch', 'of', 'snow', 'todai']
+
+No. 716
+Judged: 4
+Answer: 4
+Test case: ['miss', 'brazil', 'win', 'lawsuit', 'competit']
+
+No. 717
+Judged: 5
+Answer: 5
+Test case: ['snow', 'wreak', 'havoc', 'in', 'east', 'midwest']
+
+No. 718
+Judged: 6
+Answer: 6
+Test case: ['the', 'secret', 'peopl', 'reveal']
+
+No. 719
+Judged: 6
+Answer: 6
+Test case: ['research', 'support', 'medicin', 'marijuana']
+
+No. 720
+Judged: 4
+Answer: 4
+Test case: ['all', 'african', 'ampute', 'footbal', 'game', 'kick', 'off']
+
+No. 721
+Judged: 5
+Answer: 5
+Test case: ['group', 'video', 'show', 'chopper', 'go', 'down']
+
+No. 722
+Judged: 4
+Answer: 4
+Test case: ['sale', 'of', 'chrysler', 'possibl']
+
+No. 723
+Judged: 2
+Answer: 5
+Test case: ['russia', 'condemn', 'terrorist', 'act', 'on', 'buse', 'outsid', 'beirut']
+
+No. 724
+Judged: 6
+Answer: 4
+Test case: ['technolog', 'mai', 'save', 'india', 's', 'river', 'dolphin']
+
+No. 725
+Judged: 6
+Answer: 4
+Test case: ['airbu', 'a', 'superjumbo', 'take', 'off']
+
+No. 726
+Judged: 5
+Answer: 4
+Test case: ['nap', 'ar', 'great', 'for', 'chap']
+
+No. 727
+Judged: 4
+Answer: 4
+Test case: ['femal', 'astronaut', 'set', 'record']
+
+No. 728
+Judged: 4
+Answer: 6
+Test case: ['corn', 'stove', 'pop', 'up', 'in', 'u', 's', 'home']
+
+No. 729
+Judged: 3
+Answer: 5
+Test case: ['iraq', 'close', 'border', 'with', 'syria', 'and', 'iran']
+
+No. 730
+Judged: 5
+Answer: 5
+Test case: ['the', 'troubl', 'end', 'of', 'the', 'depart']
+
+No. 731
+Judged: 6
+Answer: 4
+Test case: ['vietnames', 'bank', 'plan', 'ipo', 'list']
+
+No. 732
+Judged: 6
+Answer: 6
+Test case: ['toyota', 's', 'scion', 'park', 'in', 'second', 'life']
+
+No. 733
+Judged: 5
+Answer: 4
+Test case: ['obama', 'will', 'run', 'in']
+
+No. 734
+Judged: 4
+Answer: 4
+Test case: ['cagnei', 'lacei', 'final', 'come', 'to', 'dvd']
+
+No. 735
+Judged: 6
+Answer: 3
+Test case: ['merkel', 'stop', 'iran']
+
+No. 736
+Judged: 4
+Answer: 5
+Test case: ['salt', 'lake', 'citi', 'mall', 'shooter', 'wa', 'teenag']
+
+No. 737
+Judged: 4
+Answer: 4
+Test case: ['femal', 'astronaut', 'set', 'record']
+
+No. 738
+Judged: 3
+Answer: 4
+Test case: ['oil', 'hold', 'at']
+
+No. 739
+Judged: 4
+Answer: 4
+Test case: ['obama', 'announc', 'presidenti', 'bid']
+
+No. 740
+Judged: 5
+Answer: 4
+Test case: ['tell', 'your', 'boss', 'nap', 'ar', 'good', 'for', 'you']
+
+No. 741
+Judged: 1
+Answer: 1
+Test case: ['serbia', 'reject', 'unit', 'nation', 's', 'kosovo', 'plan']
+
+No. 742
+Judged: 5
+Answer: 5
+Test case: ['amish', 'discuss', 'shoot']
+
+No. 743
+Judged: 5
+Answer: 6
+Test case: ['jail', 'me', 'i', 'at', 'ivori', 'coast', 'chocol']
+
+No. 744
+Judged: 1
+Answer: 3
+Test case: ['can', 'north', 'korea', 'be', 'trust']
+
+No. 745
+Judged: 2
+Answer: 5
+Test case: ['tourism', 'lag', 'in', 'bush', 's', 'hometown']
+
+No. 746
+Judged: 4
+Answer: 6
+Test case: ['astronaut', 's', 'arrest', 'test', 'nasa', 's', 'mettl']
+
+No. 747
+Judged: 4
+Answer: 4
+Test case: ['man', 'get', 'second', 'chanc', 'at', 'space', 'ride']
+
+No. 748
+Judged: 5
+Answer: 6
+Test case: ['go', 'ahead', 'take', 'a', 'nap', 'scienc', 'sai']
+
+No. 749
+Judged: 4
+Answer: 4
+Test case: ['weekli', 'nielsen', 'will', 'lost', 'find', 'it', 'wai', 'back']
+
+No. 750
+Judged: 6
+Answer: 6
+Test case: ['brith', 'airwai', 'baggag', 'charg', 'caus', 'confus']
+
+No. 751
+Judged: 5
+Answer: 5
+Test case: ['indonesian', 'with', 'bird', 'flu', 'di']
+
+No. 752
+Judged: 4
+Answer: 4
+Test case: ['st', 'loui', 'pois', 'for', 'entertain', 'upsw']
+
+No. 753
+Judged: 4
+Answer: 6
+Test case: ['new', 'york', 'citi', 'mai', 'ban', 'ipod', 'while', 'cross', 'street']
+
+No. 754
+Judged: 5
+Answer: 5
+Test case: ['boi', 'allegedli', 'told', 'to', 'kill', 'by', 'mom', 'give', 'up']
+
+No. 755
+Judged: 3
+Answer: 4
+Test case: ['grai', 'wolv', 'off', 'endang', 'list']
+
+No. 756
+Judged: 5
+Answer: 4
+Test case: ['vista', 's', 'hype', 'secur', 'will', 'be', 'test']
+
+No. 757
+Judged: 3
+Answer: 3
+Test case: ['uk', 'polic', 'slam', 'over', 'terror', 'raid']
+
+No. 758
+Judged: 3
+Answer: 3
+Test case: ['mogadishu', 'resid', 'flee', 'blast']
+
+No. 759
+Judged: 3
+Answer: 5
+Test case: ['bomb', 'kill', 'on', 'militari', 'bu', 'in', 'iran']
+
+No. 760
+Judged: 4
+Answer: 4
+Test case: ['wariowar', 'wii', 'make', 'perfect', 'fit']
+
+No. 761
+Judged: 4
+Answer: 3
+Test case: ['u', 's', 'at', 'odd', 'with', 'cleric', 's', 'aid']
+
+No. 762
+Judged: 5
+Answer: 5
+Test case: ['desper', 'iraqi', 'mother', 'reli', 'on', 'militia', 'for', 'help']
+
+No. 763
+Judged: 4
+Answer: 6
+Test case: ['full', 'detail', 'of', 'the', 'eu', 'report', 'on', 'iran']
+
+No. 764
+Judged: 6
+Answer: 4
+Test case: ['singer', 'on', 'cowel', 'glad', 'he', 'wa', 'mean']
+
+No. 765
+Judged: 5
+Answer: 5
+Test case: ['jone', 'face', 'europ', 'meet', 'snub']
+
+No. 766
+Judged: 4
+Answer: 4
+Test case: ['beckham', 'goal', 'help', 'real', 'snatch', 'win']
+
+No. 767
+Judged: 4
+Answer: 3
+Test case: ['guinea', 'plan', 'offic', 'close', 'as', 'countri', 'declar', 'emerg']
+
+No. 768
+Judged: 3
+Answer: 4
+Test case: ['japan', 's', 'economi', 'grow']
+
+No. 769
+Judged: 5
+Answer: 4
+Test case: ['unit', 'nation', 'peacekeep', 'raid', 'haitian', 'slum']
+
+No. 770
+Judged: 5
+Answer: 4
+Test case: ['work', 'start', 'on', 'arctic', 'seed', 'vault']
+
+No. 771
+Judged: 3
+Answer: 4
+Test case: ['social', 'network', 'goe', 'mobil']
+
+No. 772
+Judged: 3
+Answer: 4
+Test case: ['beautician', 'cut', 'curl', 'offer', 'stroke', 'prevent', 'info']
+
+No. 773
+Judged: 5
+Answer: 6
+Test case: ['siesta', 'cut', 'risk', 'of', 'heart', 'diseas', 'death', 'studi', 'find']
+
+No. 774
+Judged: 4
+Answer: 4
+Test case: ['thoma', 'cook', 'to', 'merg', 'with', 'mytravel']
+
+No. 775
+Judged: 5
+Answer: 4
+Test case: ['nap', 'your', 'wai', 'to', 'a', 'success', 'career']
+
+No. 776
+Judged: 3
+Answer: 5
+Test case: ['villag', 'buri', 'by', 'inch', 'of', 'snow']
+
+No. 777
+Judged: 4
+Answer: 4
+Test case: ['oprah', 'announc', 'new', 'book', 'club', 'pick']
+
+No. 778
+Judged: 4
+Answer: 4
+Test case: ['the', 'scienc', 'of', 'love', 'and', 'lust']
+
+No. 779
+Judged: 5
+Answer: 5
+Test case: ['northeast', 'cancel', 'flight', 'shut', 'school']
+
+No. 780
+Judged: 4
+Answer: 4
+Test case: ['nap', 'mai', 'be', 'good', 'for', 'your', 'heart']
+
+No. 781
+Judged: 4
+Answer: 5
+Test case: ['ryan', 'o', 'neal', 'injur', 'son', 's', 'girlfriend']
+
+No. 782
+Judged: 2
+Answer: 5
+Test case: ['chrysler', 's', 'valentin', 's', 'dai', 'massacr']
+
+No. 783
+Judged: 5
+Answer: 3
+Test case: ['madrid', 'bomb', 'trial', 'begin']
+
+No. 784
+Judged: 5
+Answer: 2
+Test case: ['fight', 'start', 'over', 'hpv', 'vaccin']
+
+No. 785
+Judged: 4
+Answer: 4
+Test case: ['auto', 'drive', 'european', 'gain']
+
+No. 786
+Judged: 3
+Answer: 4
+Test case: ['jame', 'brown', 's', 'partner', 'can', 'get', 'her', 'thing']
+
+No. 787
+Judged: 5
+Answer: 5
+Test case: ['auto', 'show', 'cancel']
+
+No. 788
+Judged: 4
+Answer: 6
+Test case: ['uk', 'luxuri', 'maker', 'burberri', 'made', 'in', 'china']
+
+No. 789
+Judged: 4
+Answer: 4
+Test case: ['on', 'the', 'job', 'nap', 'might', 'cut', 'heart', 'risk']
+
+No. 790
+Judged: 4
+Answer: 4
+Test case: ['no', 'florida', 'surviv', 'rupp', 'arena', 'streak', 'hit']
+
+No. 791
+Judged: 5
+Answer: 5
+Test case: ['j', 'k', 'rowl', 'mark', 'spot', 'of', 'potter', 's', 'end']
+
+No. 792
+Judged: 4
+Answer: 4
+Test case: ['gronholm', 'take', 'a', 'command', 'lead']
+
+No. 793
+Judged: 5
+Answer: 1
+Test case: ['howard', 'slam', 'obama', 'on', 'iraq', 'polici']
+
+No. 794
+Judged: 4
+Answer: 5
+Test case: ['manila', 'hint', 'at', 'ransom', 'approv']
+
+No. 795
+Judged: 4
+Answer: 4
+Test case: ['champion', 'murrai', 'too', 'good', 'for', 'kim']
+
+No. 796
+Judged: 3
+Answer: 5
+Test case: ['g', 'yen', 'skate', 'by', 'yuan', 'singl', 'out']
+
+No. 797
+Judged: 5
+Answer: 6
+Test case: ['gunman', 'wa', 'srebrenica', 'survivor']
+
+No. 798
+Judged: 3
+Answer: 4
+Test case: ['cut', 'through', 'the', 'clutter', 'to', 'get', 'thing', 'done']
+
+No. 799
+Judged: 5
+Answer: 4
+Test case: ['mother', 'lohan', 'is', 'do', 'great', 'in', 'rehab']
+
+No. 800
+Judged: 4
+Answer: 4
+Test case: ['who', 's', 'go', 'to', 'win', 'at', 'the', 'grammi']
+
+No. 801
+Judged: 6
+Answer: 6
+Test case: ['libbi', 'defens', 'upset', 'judg', 'rest']
+
+No. 802
+Judged: 4
+Answer: 5
+Test case: ['breakup', 'ring', 'find', 'new', 'home']
+
+No. 803
+Judged: 5
+Answer: 4
+Test case: ['gronholm', 'ahead', 'as', 'solberg', 'crash']
+
+No. 804
+Judged: 5
+Answer: 5
+Test case: ['norbit', 'a', 'wast', 'of', 'murphi']
+
+No. 805
+Judged: 5
+Answer: 6
+Test case: ['rocki', 'start', 'for', 'bangkok', 'airport']
+
+No. 806
+Judged: 5
+Answer: 5
+Test case: ['dead', 'in', 'lebanes', 'minibu', 'bomb']
+
+No. 807
+Judged: 4
+Answer: 2
+Test case: ['sex', 'tortur', 'claim', 'hit', 'russia', 'armi']
+
+No. 808
+Judged: 4
+Answer: 6
+Test case: ['mega', 'marsupi', 'onc', 'roam', 'australia']
+
+No. 809
+Judged: 6
+Answer: 6
+Test case: ['rupert', 'murdoch', 's', 'secret', 'tivo']
+
+No. 810
+Judged: 5
+Answer: 5
+Test case: ['updat', 'plane', 'crash', 'at', 'moscow', 'airport', 'no', 'passeng']
+
+No. 811
+Judged: 3
+Answer: 6
+Test case: ['hpv', 'vaccin', 'stir', 'heat', 'debat', 'in', 'america']
+
+No. 812
+Judged: 3
+Answer: 6
+Test case: ['court', 'tv', 'accus', 'killer', 'tell', 'juri', 'a', 'love', 'stori']
+
+No. 813
+Judged: 4
+Answer: 6
+Test case: ['whistl', 'blow', 'web', 'site', 'expos']
+
+No. 814
+Judged: 5
+Answer: 4
+Test case: ['start', 'late', 'retir', 'rich']
+
+No. 815
+Judged: 4
+Answer: 1
+Test case: ['somali', 'pm', 'vow', 'to', 'bring', 'islamist', 'to', 'justic']
+
+No. 816
+Judged: 5
+Answer: 6
+Test case: ['swinger', 'more', 'common', 'than', 'most', 'think']
+
+No. 817
+Judged: 5
+Answer: 5
+Test case: ['anna', 'nicol', 'smith', 'fan', 'mourn', 'in', 'cyberspac']
+
+No. 818
+Judged: 5
+Answer: 3
+Test case: ['antibiot', 'ketek', 'more', 'danger', 'than', 'thought']
+
+No. 819
+Judged: 4
+Answer: 4
+Test case: ['time', 'to', 'book', 'your', 'cruis']
+
+No. 820
+Judged: 4
+Answer: 5
+Test case: ['blaze', 'angel', 'for', 'ps', 'fail', 'to', 'soar']
+
+No. 821
+Judged: 1
+Answer: 5
+Test case: ['north', 'korea', 'aid', 'demand', 'stall', 'talk']
+
+No. 822
+Judged: 5
+Answer: 5
+Test case: ['cartoon', 'network', 'head', 'step', 'down']
+
+No. 823
+Judged: 4
+Answer: 4
+Test case: ['malaysia', 'aggress', 'woo', 'tourist']
+
+No. 824
+Judged: 3
+Answer: 5
+Test case: ['anna', 'nicol', 'smith', 's', 'bahama', 'home', 'seiz']
+
+No. 825
+Judged: 5
+Answer: 6
+Test case: ['andromeda', 'involv', 'in', 'galact', 'collis']
+
+No. 826
+Judged: 3
+Answer: 4
+Test case: ['rwanda', 'mull', 'kid', 'limit', 'for', 'famili']
+
+No. 827
+Judged: 4
+Answer: 4
+Test case: ['wilkinson', 'set', 'record', 'in', 'tame', 'win']
+
+No. 828
+Judged: 3
+Answer: 4
+Test case: ['armi', 'engin', 'sai', 'dam', 'safe']
+
+No. 829
+Judged: 5
+Answer: 3
+Test case: ['franc', 'al', 'qaeda', 'suspect', 'arrest']
+
+No. 830
+Judged: 5
+Answer: 4
+Test case: ['utah', 'gunman', 'surviv', 'srebrenica']
+
+No. 831
+Judged: 4
+Answer: 6
+Test case: ['creat', 'a', 'whole', 'album', 'in', 'a', 'month']
+
+No. 832
+Judged: 3
+Answer: 3
+Test case: ['india', 'to', 'test', 'new', 'nuclear', 'missil']
+
+No. 833
+Judged: 6
+Answer: 6
+Test case: ['g', 'to', 'china', 'eas', 'exchang', 'rate', 'grip']
+
+No. 834
+Judged: 4
+Answer: 4
+Test case: ['hatton', 'hand', 'back', 'ibf', 'titl', 'again']
+
+No. 835
+Judged: 5
+Answer: 3
+Test case: ['bernank', 'economi', 'healthi', 'but']
+
+No. 836
+Judged: 4
+Answer: 4
+Test case: ['mickelson', 'sutherland', 'share', 'lead']
+
+No. 837
+Judged: 5
+Answer: 4
+Test case: ['nap', 'is', 'good', 'for', 'your', 'heart', 'studi', 'find']
+
+No. 838
+Judged: 5
+Answer: 6
+Test case: ['princess', 'masako', 'author', 'no', 'regret']
+
+No. 839
+Judged: 5
+Answer: 6
+Test case: ['student', 'us', 'im', 'lingo', 'in', 'essai']
+
+No. 840
+Judged: 4
+Answer: 4
+Test case: ['malaysia', 'launch', 'tourism', 'campaign']
+
+No. 841
+Judged: 3
+Answer: 5
+Test case: ['studi', 'africa', 's', 'internet', 'gap', 'get', 'wider']
+
+No. 842
+Judged: 4
+Answer: 3
+Test case: ['travel', 'chao', 'as', 'heavi', 'snow', 'hit', 'uk']
+
+No. 843
+Judged: 5
+Answer: 6
+Test case: ['paula', 'abdul', 'i', 'have', 'never', 'been', 'drunk']
+
+No. 844
+Judged: 5
+Answer: 3
+Test case: ['salmonella', 'outbreak', 'trace', 'to', 'peanut', 'butter']
+
+No. 845
+Judged: 5
+Answer: 3
+Test case: ['putin', 'u', 's', 'forc', 'foster', 'nuke', 'ambit']
+
+No. 846
+Judged: 5
+Answer: 3
+Test case: ['nuke', 'detector', 'to', 'ring', 'new', 'york', 'offici', 'sai']
+
+No. 847
+Judged: 5
+Answer: 5
+Test case: ['doubl', 'bu', 'bomb', 'kill', 'three', 'in', 'lebanon']
+
+No. 848
+Judged: 3
+Answer: 6
+Test case: ['davydenko', 'out', 'as', 'seed', 'scatter']
+
+No. 849
+Judged: 6
+Answer: 4
+Test case: ['obama', 'i', 'm', 'run', 'for', 'presid']
+
+No. 850
+Judged: 4
+Answer: 4
+Test case: ['paterson', 'boot', 'scotland', 'to', 'victori']
+
+No. 851
+Judged: 5
+Answer: 6
+Test case: ['african', 'american', 'ar', 'organ', 'donor', 'these', 'dai', 'but', 'what', 'about', 'bone', 'marrow']
+
+No. 852
+Judged: 5
+Answer: 4
+Test case: ['studi', 'on', 'the', 'job', 'nap', 'might', 'help', 'heart']
+
+No. 853
+Judged: 1
+Answer: 3
+Test case: ['guinea', 'capit', 'larg', 'calm', 'under', 'curfew', 'marit', 'law']
+
+No. 854
+Judged: 3
+Answer: 6
+Test case: ['boss', 'sleep', 'on', 'idea', 'of', 'let', 'worker', 'take', 'nap']
+
+No. 855
+Judged: 6
+Answer: 2
+Test case: ['teacher', 's', 'porn', 'convict', 'spark', 'tech', 'debat']
+
+No. 856
+Judged: 6
+Answer: 4
+Test case: ['singapor', 'pamper', 'it', 'waterfront', 'promenad']
+
+No. 857
+Judged: 4
+Answer: 6
+Test case: ['rwanda', 'mull', 'three', 'child', 'limit']
+
+No. 858
+Judged: 4
+Answer: 4
+Test case: ['samsung', 'settl', 'price', 'fix', 'lawsuit']
+
+No. 859
+Judged: 1
+Answer: 3
+Test case: ['radic', 'cleric', 'al', 'sadr', 'in', 'iran', 'u', 's', 'insist']
+
+No. 860
+Judged: 4
+Answer: 4
+Test case: ['report', 'harvard', 'set', 'to', 'name', 'first', 'femal', 'presid']
+
+No. 861
+Judged: 6
+Answer: 6
+Test case: ['iraq', 'unveil', 'new', 'secur', 'plan']
+
+No. 862
+Judged: 5
+Answer: 4
+Test case: ['univers', 'offer', 'support', 'to', 'new', 'orlean', 'school']
+
+No. 863
+Judged: 5
+Answer: 3
+Test case: ['storm', 'caus', 'slick', 'ici', 'road']
+
+No. 864
+Judged: 3
+Answer: 5
+Test case: ['south', 'korea', 'fire', 'kill', 'foreign']
+
+No. 865
+Judged: 5
+Answer: 6
+Test case: ['prehistor', 'lover', 'found', 'lock', 'in', 'etern', 'embrac']
+
+No. 866
+Judged: 4
+Answer: 6
+Test case: ['chart', 'is', 'your', 'citi', 'lean', 'or', 'letharg']
+
+No. 867
+Judged: 2
+Answer: 5
+Test case: ['peru', 'leader', 'question', 'in', 'massacr', 'probe']
+
+No. 868
+Judged: 5
+Answer: 4
+Test case: ['u', 's', 'command', 'iraq', 'not', 'hopeless']
+
+No. 869
+Judged: 4
+Answer: 4
+Test case: ['australian', 'pm', 'stand', 'by', 'obama', 'attack']
+
+No. 870
+Judged: 4
+Answer: 4
+Test case: ['mardi', 'gra', 'rebound', 'in', 'the', 'of', 'for', 'new', 'orlean']
+
+No. 871
+Judged: 4
+Answer: 4
+Test case: ['siesta', 'mai', 'cut', 'heart', 'diseas', 'risk']
+
+No. 872
+Judged: 5
+Answer: 5
+Test case: ['oregon', 'snorkel', 'mistaken', 'for', 'rodent', 'shot', 'in', 'face']
+
+No. 873
+Judged: 5
+Answer: 3
+Test case: ['petraeu', 'take', 'command', 'in', 'iraq']
+
+No. 874
+Judged: 5
+Answer: 5
+Test case: ['dead', 'after', 'utah', 'mall', 'shoot', 'rampag']
+
+No. 875
+Judged: 5
+Answer: 5
+Test case: ['shark', 'kill', 'four', 'peopl', 'in', 'dull', 'year']
+
+No. 876
+Judged: 4
+Answer: 4
+Test case: ['record', 'shatter', 'dai', 'on', 'wall', 'st']
+
+No. 877
+Judged: 4
+Answer: 5
+Test case: ['comedian', 'sai', 'govern', 'silenc', 'critic']
+
+No. 878
+Judged: 4
+Answer: 4
+Test case: ['rocker', 'big', 'winner', 'at', 'brit', 'award']
+
+No. 879
+Judged: 5
+Answer: 5
+Test case: ['samba', 'school', 'leader', 'kill', 'befor', 'rio', 'carniv']
+
+No. 880
+Judged: 5
+Answer: 5
+Test case: ['taiwan', 's', 'mr', 'clean', 'indict', 'step', 'down']
+
+No. 881
+Judged: 4
+Answer: 1
+Test case: ['woman', 'fight', 'to', 'keep', 'drunken', 'driver', 'in', 'jail']
+
+No. 882
+Judged: 3
+Answer: 3
+Test case: ['al', 'qaeda', 'group', 'call', 'for', 'attack', 'on', 'u', 's', 'oil']
+
+No. 883
+Judged: 5
+Answer: 5
+Test case: ['cousin', 'gunman', 'wa', 'srebrenica', 'survivor']
+
+No. 884
+Judged: 6
+Answer: 4
+Test case: ['turkmenistan', 'vote', 'for', 'presid']
+
+No. 885
+Judged: 4
+Answer: 6
+Test case: ['here', 'is', 'some', 'advic', 'to', 'take', 'to', 'heart']
+
+No. 886
+Judged: 4
+Answer: 4
+Test case: ['don', 't', 'miss', 'tax', 'break']
+
+No. 887
+Judged: 4
+Answer: 1
+Test case: ['polic', 'break', 'up', 'kosovo', 'protest']
+
+No. 888
+Judged: 4
+Answer: 4
+Test case: ['messi', 'make', 'barcelona', 'squad', 'return']
+
+No. 889
+Judged: 5
+Answer: 5
+Test case: ['jump', 'report', 'in', 'accident', 'drug', 'overdos', 'death']
+
+No. 890
+Judged: 3
+Answer: 5
+Test case: ['catania', 'punish', 'for', 'fan', 'violenc']
+
+No. 891
+Judged: 4
+Answer: 4
+Test case: ['isinbayeva', 'set', 'th', 'world', 'record']
+
+No. 892
+Judged: 3
+Answer: 1
+Test case: ['lawmak', 'blast', 'fda', 'drug', 'safeti', 'oversight']
+
+No. 893
+Judged: 4
+Answer: 4
+Test case: ['regular', 'nap', 'make', 'heart', 'healthi']
+
+No. 894
+Judged: 5
+Answer: 5
+Test case: ['ic', 'stop', 'trollei', 'cold']
+
+No. 895
+Judged: 5
+Answer: 6
+Test case: ['u', 's', 'gunman', 'wa', 'srebrenica', 'survivor']
+
+No. 896
+Judged: 6
+Answer: 2
+Test case: ['outdat', 'babi', 'food', 'found', 'on', 'shelv']
+
+No. 897
+Judged: 4
+Answer: 2
+Test case: ['tow', 'truck', 'driver', 'accus', 'of', 'steal', 'car']
+
+No. 898
+Judged: 6
+Answer: 4
+Test case: ['bush', 'it', 's', 'time', 'for', 'congress', 'to', 'back', 'energi', 'plan']
+
+No. 899
+Judged: 4
+Answer: 4
+Test case: ['uk', 'soldier', 'clear', 'of', 'iraq', 'abus']
+
+No. 900
+Judged: 5
+Answer: 4
+Test case: ['fda', 'revis', 'label', 'warn', 'on', 'the', 'antibiot', 'ketek']
+
+No. 901
+Judged: 4
+Answer: 4
+Test case: ['toshiba', 'porteg', 'r']
+
+No. 902
+Judged: 4
+Answer: 5
+Test case: ['south', 'africa', 'mourn', 'adelaid', 'tambo']
+
+No. 903
+Judged: 3
+Answer: 4
+Test case: ['evacue', 'can', 'return', 'home', 'after', 'plant', 'blast']
+
+No. 904
+Judged: 5
+Answer: 5
+Test case: ['anna', 'nicol', 'smith', 's', 'bodi', 'li', 'in', 'legal', 'limbo']
+
+No. 905
+Judged: 3
+Answer: 6
+Test case: ['former', 'teacher', 'pose', 'for', 'playboi']
+
+No. 906
+Judged: 1
+Answer: 1
+Test case: ['franc', 'reject', 'rwandan', 'investig']
+
+No. 907
+Judged: 4
+Answer: 6
+Test case: ['a', 'nap', 'a', 'dai', 'mai', 'keep', 'the', 'heart', 'doctor', 'awai']
+
+No. 908
+Judged: 5
+Answer: 4
+Test case: ['higlei', 'gonzalez', 'lead', 'in', 'malaysia']
+
+No. 909
+Judged: 4
+Answer: 4
+Test case: ['grammi', 'readi', 'to', 'name', 'winner']
+
+No. 910
+Judged: 1
+Answer: 1
+Test case: ['pound', 'will', 'not', 'drop', 'armstrong', 'case']
+
+No. 911
+Judged: 5
+Answer: 4
+Test case: ['reunit', 'polic', 'to', 'start', 'world', 'tour', 'in', 'mai']
+
+No. 912
+Judged: 4
+Answer: 4
+Test case: ['turkmen', 'act', 'leader', 'sworn', 'in', 'as', 'new', 'presid']
+
+No. 913
+Judged: 4
+Answer: 4
+Test case: ['allen', 'and', 'okur', 'get', 'all', 'star', 'call']
+
+No. 914
+Judged: 1
+Answer: 4
+Test case: ['svindal', 'claim', 'ar', 'golden', 'doubl']
+
+No. 915
+Judged: 5
+Answer: 5
+Test case: ['trollei', 'squar', 'shoot', 'leav', 'dead', 'includ', 'gunman']
+
+No. 916
+Judged: 5
+Answer: 3
+Test case: ['bridg', 'blast', 'stop', 'i', 'traffic']
+
+No. 917
+Judged: 5
+Answer: 5
+Test case: ['mother', 'daughter', 'stab', 'near', 'school']
+
+No. 918
+Judged: 4
+Answer: 2
+Test case: ['excerpt', 'politician', 'and', 'the', 'press']
+
+No. 919
+Judged: 3
+Answer: 4
+Test case: ['north', 'korea', 'get', 'monei', 'and', 'respect']
+
+No. 920
+Judged: 4
+Answer: 4
+Test case: ['beyonc', 'in', 'a', 'bikini', 'as', 'si', 's', 'swimsuit', 'cover', 'model']
+
+No. 921
+Judged: 4
+Answer: 6
+Test case: ['love', 'with', 'all', 'your', 'brain']
+
+No. 922
+Judged: 2
+Answer: 6
+Test case: ['shoplift', 'choic', 'polic', 'or', 't', 'shirt', 'of', 'shame']
+
+No. 923
+Judged: 4
+Answer: 3
+Test case: ['cuban', 'offici', 'web', 'a', 'wild', 'colt']
+
+No. 924
+Judged: 4
+Answer: 4
+Test case: ['slow', 'music', 'and', 'lyric']
+
+No. 925
+Judged: 5
+Answer: 4
+Test case: ['mexican', 'navi', 'help', 'in', 'hunt', 'for', 'u', 's', 'engin']
+
+No. 926
+Judged: 6
+Answer: 5
+Test case: ['smith', 'babi', 'mai', 'not', 'be', 'pot', 'of', 'gold']
+
+No. 927
+Judged: 5
+Answer: 3
+Test case: ['latest', 'updat', 'on', 'world', 's', 'top', 'stori']
+
+No. 928
+Judged: 4
+Answer: 5
+Test case: ['beat', 'leav', 'teen', 'in', 'coma']
+
+No. 929
+Judged: 4
+Answer: 4
+Test case: ['tiempo', 'libr', 'ha', 'grammi', 'dream']
+
+No. 930
+Judged: 4
+Answer: 6
+Test case: ['gp', 'sneaker', 'locat', 'with', 'press', 'of', 'a', 'button']
+
+No. 931
+Judged: 2
+Answer: 5
+Test case: ['embattl', 'edward', 'blogger', 'quit', 'campaign']
+
+No. 932
+Judged: 3
+Answer: 3
+Test case: ['briton', 'deport', 'from', 'somalia', 'held', 'under', 'terror', 'act']
+
+No. 933
+Judged: 5
+Answer: 3
+Test case: ['updat', 'on', 'world', 's', 'top', 'stori']
+
+No. 934
+Judged: 3
+Answer: 4
+Test case: ['breast', 'cancer', 'drug', 'promis', 'hope']
+
+No. 935
+Judged: 2
+Answer: 6
+Test case: ['ancient', 'coin', 'show', 'cleopatra', 'wa', 'no', 'beauti']
+
+No. 936
+Judged: 4
+Answer: 6
+Test case: ['youtub', 'yield', 'surpris', 'payback']
+
+No. 937
+Judged: 4
+Answer: 6
+Test case: ['up', 'to', 'inch', 'of', 'snow', 'in', 'forecast']
+
+No. 938
+Judged: 4
+Answer: 4
+Test case: ['werder', 'make', 'man', 'ajax', 'pai', 'price']
+
+No. 939
+Judged: 2
+Answer: 1
+Test case: ['eu', 'condemn', 'illeg', 'cia', 'flight']
+
+No. 940
+Judged: 5
+Answer: 3
+Test case: ['report', 'link', 'human', 'to', 'global', 'warm']
+
+No. 941
+Judged: 6
+Answer: 1
+Test case: ['un', 'nuclear', 'watchdog', 'slash', 'iran', 'aid']
+
+No. 942
+Judged: 4
+Answer: 5
+Test case: ['survei', 'tech', 'a', 'tool', 'in', 'teen', 'date', 'abus']
+
+No. 943
+Judged: 3
+Answer: 4
+Test case: ['the', 'breast', 'cancer', 'breakthrough', 'save', 'women', 'a', 'year']
+
+No. 944
+Judged: 5
+Answer: 5
+Test case: ['tourist', 'spot', 'resist', 'graviti', 'but', 'not', 'progress']
+
+No. 945
+Judged: 4
+Answer: 4
+Test case: ['the', 'nfl', 's', 'biggest', 'potenti', 'free', 'agent']
+
+No. 946
+Judged: 4
+Answer: 4
+Test case: ['world', 'tourism', 'set', 'record', 'in']
+
+No. 947
+Judged: 6
+Answer: 6
+Test case: ['ba', 'to', 'charg', 'for', 'an', 'extra', 'bag']
+
+No. 948
+Judged: 4
+Answer: 4
+Test case: ['kuerten', 'return', 'to', 'winner', 'circl']
+
+No. 949
+Judged: 6
+Answer: 6
+Test case: ['world', 's', 'oldest', 'newspap', 'now', 'exist', 'onli', 'onlin']
+
+No. 950
+Judged: 5
+Answer: 5
+Test case: ['japanes', 'whaler', 'afir', 'in', 'antarct']
+
+No. 951
+Judged: 5
+Answer: 3
+Test case: ['eu', 'document', 'iranian', 'bomb', 'unstopp']
+
+No. 952
+Judged: 6
+Answer: 4
+Test case: ['u', 's', 'urg', 'to', 'lead', 'on', 'green', 'action']
+
+No. 953
+Judged: 5
+Answer: 6
+Test case: ['see', 'if', 'your', 'citi', 'is', 'on', 'of', 'the', 'unit', 'state', 'top', 'fittest', 'or', 'fattest']
+
+No. 954
+Judged: 6
+Answer: 3
+Test case: ['lee', 'in', 'pre', 'world', 'cup', 'injuri', 'scare']
+
+No. 955
+Judged: 4
+Answer: 4
+Test case: ['new', 'cancer', 'drug', 'to', 'save', 'a', 'thousand', 'live', 'a', 'year']
+
+No. 956
+Judged: 3
+Answer: 2
+Test case: ['ex', 'teacher', 'guilti', 'in', 'nude', 'pictur', 'scheme']
+
+No. 957
+Judged: 3
+Answer: 6
+Test case: ['fire', 'extinguish', 'part', 'of', 'tennesse', 'execut', 'kit']
+
+No. 958
+Judged: 5
+Answer: 4
+Test case: ['founder', 'return', 'to', 'dell', 'helm']
+
+No. 959
+Judged: 4
+Answer: 4
+Test case: ['charl', 'gibson', 'take', 'over', 'first', 'place']
+
+No. 960
+Judged: 5
+Answer: 5
+Test case: ['ex', 'border', 'patrol', 'agent', 'beaten', 'in', 'prison']
+
+No. 961
+Judged: 6
+Answer: 1
+Test case: ['made', 'in', 'china', 'irk', 'some', 'burberri', 'shopper']
+
+No. 962
+Judged: 4
+Answer: 6
+Test case: ['stoneheng', 'worker', 'villag', 'found']
+
+No. 963
+Judged: 1
+Answer: 6
+Test case: ['who', 'is', 'princ', 'freder', 'von', 'anhalt']
+
+No. 964
+Judged: 4
+Answer: 6
+Test case: ['latest', 'food', 'fad', 'space', 'potato']
+
+No. 965
+Judged: 6
+Answer: 4
+Test case: ['ethiopia', 'readi', 'for', 'millennium', 'all', 'it', 'own']
+
+No. 966
+Judged: 4
+Answer: 4
+Test case: ['good', 'new', 'for', 'slacker', 'nap', 'mai', 'cut', 'risk', 'for', 'heart', 'problem']
+
+No. 967
+Judged: 5
+Answer: 5
+Test case: ['snowbird', 'shorten', 'their', 'florida', 'stai']
+
+No. 968
+Judged: 4
+Answer: 4
+Test case: ['win', 'a', 'concert', 'date', 'with', 'the', 'polic']
+
+No. 969
+Judged: 4
+Answer: 3
+Test case: ['snow', 'begin', 'heavi', 'accumul', 'expect']
+
+No. 970
+Judged: 6
+Answer: 4
+Test case: ['jet', 'flip', 'in', 'snowstorm', 'none', 'dead']
+
+No. 971
+Judged: 6
+Answer: 6
+Test case: ['frantic', 'call', 'in', 'ryan', 'o', 'neal', 'case']
+
+No. 972
+Judged: 4
+Answer: 4
+Test case: ['durant', 's', 'success', 'trump', 'the', 'gator']
+
+No. 973
+Judged: 4
+Answer: 2
+Test case: ['scientist', 'snoop', 'in', 'astronaut', 'journal']
+
+No. 974
+Judged: 4
+Answer: 4
+Test case: ['youtub', 'founder', 'split', 'm', 'payout']
+
+No. 975
+Judged: 5
+Answer: 4
+Test case: ['african', 'nation', 'hope', 'whoopi', 'can', 'help']
+
+No. 976
+Judged: 4
+Answer: 4
+Test case: ['unit', 'hang', 'on', 'to', 'six', 'point', 'lead']
+
+No. 977
+Judged: 3
+Answer: 5
+Test case: ['lawyer', 'seiz', 'smith', 's', 'bahama', 'home']
+
+No. 978
+Judged: 2
+Answer: 6
+Test case: ['wa', 'princ', 's', 'super', 'show', 'too', 'reveal']
+
+No. 979
+Judged: 4
+Answer: 5
+Test case: ['clijster', 'look', 'for', 'a', 'long', 'goodby']
+
+No. 980
+Judged: 5
+Answer: 6
+Test case: ['snow', 's', 'too', 'deep', 'even', 'for', 'snowmobil']
+
+No. 981
+Judged: 3
+Answer: 6
+Test case: ['studi', 'femal', 'seal', 'picki', 'about', 'mate']
+
+No. 982
+Judged: 1
+Answer: 1
+Test case: ['roundup', 'protest', 'erupt', 'despit', 'state', 'of', 'sieg', 'in', 'guinea']
+
+No. 983
+Judged: 2
+Answer: 2
+Test case: ['studi', 'more', 'kid', 'expos', 'to', 'onlin', 'porn']
+
+No. 984
+Judged: 1
+Answer: 4
+Test case: ['beyonc', 'new', 'si', 'bikini', 'cover', 'girl']
+
+No. 985
+Judged: 6
+Answer: 6
+Test case: ['marijuana', 'help', 'eas', 'hiv', 'nerv', 'pain', 'studi', 'sai']
+
+No. 986
+Judged: 6
+Answer: 5
+Test case: ['serena', 'miss', 'bangalor', 'tournament']
+
+No. 987
+Judged: 5
+Answer: 5
+Test case: ['dryer', 'blame', 'for', 'fire', 'kill', 'cat', 'dog']
+
+No. 988
+Judged: 5
+Answer: 4
+Test case: ['roddick', 'murrai', 'score', 'in', 'san', 'jose']
+
+No. 989
+Judged: 4
+Answer: 4
+Test case: ['appl', 'trademark', 'disput', 'settl']
+
+No. 990
+Judged: 4
+Answer: 5
+Test case: ['u', 's', 'onlin', 'love', 'broker', 'ey', 'china']
+
+No. 991
+Judged: 5
+Answer: 1
+Test case: ['u', 's', 'divert', 'troop', 'to', 'fight', 'taliban']
+
+No. 992
+Judged: 4
+Answer: 5
+Test case: ['hous', 'of', 'card', 'actor', 'ian', 'richardson', 'dead']
+
+No. 993
+Judged: 5
+Answer: 5
+Test case: ['taliban', 'leader', 'kill', 'in', 'airstrik']
+
+No. 994
+Judged: 4
+Answer: 4
+Test case: ['escap', 'to', 'pragu', 'without', 'the', 'summer', 'hord']
+
+No. 995
+Judged: 4
+Answer: 6
+Test case: ['kathmandu', 'first', 'snow', 'in', 'year']
+
+No. 996
+Judged: 4
+Answer: 5
+Test case: ['nasdaq', 'fail', 'in', 'bid', 'for', 'lse']
+
+No. 997
+Judged: 5
+Answer: 5
+Test case: ['ex', 'pastor', 'get', 'death', 'sentenc']
+
+No. 998
+Judged: 5
+Answer: 6
+Test case: ['babi', 'born', 'on', 'turnpik', 'after', 'dad', 'miss', 'exit']
+
+No. 999
+Judged: 5
+Answer: 6
+Test case: ['studi', 'link', 'chimp', 'and', 'hammer']
+
+No. 1000
+Judged: 6
+Answer: 4
+Test case: ['un', 'googl', 'earth', 'map', 'climat', 'chang']
+
+Accuracy: 34.9 %
+Total Time: 284.1044197910014 s

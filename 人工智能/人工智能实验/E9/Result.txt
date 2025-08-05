@@ -1,0 +1,11 @@
+Epoch 1, Loss: 0.6856, Accuracy: 0.5631, Time: 68.37s
+Epoch 2, Loss: 0.6629, Accuracy: 0.6023, Time: 65.54s
+Epoch 3, Loss: 0.6501, Accuracy: 0.6223, Time: 65.75s
+Epoch 4, Loss: 0.6405, Accuracy: 0.6318, Time: 66.15s
+Epoch 5, Loss: 0.6346, Accuracy: 0.6393, Time: 66.13s
+Epoch 6, Loss: 0.6119, Accuracy: 0.6635, Time: 65.40s
+Epoch 7, Loss: 0.6076, Accuracy: 0.6659, Time: 66.23s
+Epoch 8, Loss: 0.6042, Accuracy: 0.6689, Time: 65.39s
+Epoch 9, Loss: 0.6010, Accuracy: 0.6722, Time: 65.71s
+Epoch 10, Loss: 0.5973, Accuracy: 0.6755, Time: 66.10s
+Validation Accuracy: 0.6149, Validation Loss: 0.6613

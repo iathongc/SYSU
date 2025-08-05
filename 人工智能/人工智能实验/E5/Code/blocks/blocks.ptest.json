@@ -1,0 +1,9 @@
+{
+    "defaultDomain": "blocks.pddl",
+    "defaultOptions": "",
+    "cases": [
+      {
+        "problem": "problem.pddl"
+      }
+    ]
+  }
