@@ -1,0 +1,1 @@
+CUDA_study 与 HPC_study 是根据老师给的大纲而截下来的 ppt。
