@@ -1,6 +1,7 @@
-# SYSU-Information and Computing Science
-📘# 中山大学 计算机学院 信息与计算科学专业-课程资料整理
+# 📘中山大学 计算机学院 信息与计算科学专业-课程资料整理
 --
+### SYSU-Information and Computing Science
+
 这是我在中山大学计算机学院信息与计算科学专业学习期间整理的课程资料合集，资料包括讲义整理、实验代码、作业笔记与复习总结。
 
 - 数字电路与逻辑设计（李全忠老师）
